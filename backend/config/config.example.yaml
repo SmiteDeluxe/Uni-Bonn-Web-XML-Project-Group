@@ -1,0 +1,101 @@
+# This is the example config. Please be aware that you need a 'config.yaml' file to use with the API.
+
+################################################################
+# Create groups in which your devices should appear in, in the frontend.
+
+# Groups consist of:
+# name: Name you want your group to be called and as which it should be displayed in the frontend
+# icon: Pick an icon from https://fonts.google.com/icons and copy its name here
+# type: Should be either 'room' (for all devices grouped by location) or 'deviceGroup' (for all devices grouped by type of device)
+# id: Can be picked freely as it is only used internally by the backend
+
+# group example:
+groups:
+  - name: exampleRoom
+    icon: help
+    type: room / deviceGroup
+    id: exampleGroupId
+
+################################################################
+# Create devices which should appear in the frontend.
+
+# Devices consist of:
+# name: Name you want your device to be called and as which it should be displayed in the frontend
+# id: Can be picked freely as it is only used internally by the backend
+# icon: Pick an icon from https://fonts.google.com/icons and copy its name here
+# groups: Enter all the groups (you created) the device should be placed in (can be more than 1);
+#         Use the id of the groups you created; Group 'pinned' can be used without being defined in 'groups';
+#         Group 'pinned' is used for displaying devices that want to be pinned and always in front;
+# template: Enter an id of a device template, found in the 'templates' folder
+# placeholders: TODO not sure what this is for
+# metadata: Here you can enter frontend Metadata;
+#           'iconColor' if you want to change the color of the icon of the device (plain text or hex);
+#           'expandable' if the device should be expandable in the frontend, to display usage statistics (boolean)
+
+#device example:
+devices:
+  - name: exampleDevice
+    id: exampleDeviceId
+    icon: help
+    groups:
+      - exampleGroupId
+      - pinned
+    template: exampleTemplateId
+    placeholders:
+      deviceId: some:weird:mac:adress
+    metadata:
+      expandable: true / false
+      iconColor: exampleColor
+
+################################################################
+# Create automations which will execute certain actions automatically.
+
+# Automations consist of:
+# name: Name of your automation; Picking a descriptive Name is suggested (could be understood as 'description')
+# id: Can be picked freely as it is only used internally by the backend
+# startDate: TODO
+# active: Boolean to set if its active or not
+# actions: Enter all the actions this automation shall execute
+#          Every action consists of:
+#          name: Name of your action; Picking a descriptive Name is suggested (could be understood as 'description')
+#          id: Can be picked freely as it is only used internally by the backend
+#          type: TODO
+#          schedule: Enter a valid cron schedule expression (https://crontab.guru/)
+#          ?states: TODO
+#          ?topic: Enter the mqtt topic you would like to publish a message to
+#          ?payload: Enter the message you would like to publish
+#          priority: TODO
+
+automations:
+  - name: exampleAutomation
+    id: exampleAutomationId
+    startDate: exampleDate
+    active: true / false
+    actions:
+      - name: exampleAction
+        id: exampleActionId
+        type: exampleType
+        schedule: "* * * * *"
+        states: #TODO
+        topic: exampleTopic
+        payload: examplePayload
+        priority: exampleValue
+
+################################################################
+# Create users which can have certain restrictions
+
+# User consist of:
+# id: Can be picked freely as it is only used internally by the backend
+# name: Name you want the User to be called and displayed as
+# deviceRestrictions: Enter devices (id of device) that the user should not have access to
+# groupRestrictions: Enter groups (id of group) that the user should not have access to
+
+users:
+  - id: exampleUserId
+    name: exampleName
+    deviceRestrictions:
+      - exampleDeviceId
+    groupRestrictions:
+      - exampleGroupId
+
+################################################################

@@ -1,0 +1,58 @@
+id: hueBulb
+name: Hue Bulb
+placeholders:
+  - id: deviceId
+    name: Hue Device id
+    description: Unique ID of the Hue Bulb, can be found in the bulbs webinterface.
+metadata:
+  expandable: false
+  iconColor: yellow
+actions:
+  - id: command
+    type: command
+    topic: 'hues/bulb-${deviceid}/command'
+    payloadInput: power # Will just send string as payload
+  - id: setState
+    type: object
+    topic: 'hues/bulb-${deviceid}/set'
+    payloadInput: # Will send `input id: value` mapping as payload
+      - power
+      - red
+      - green
+listeners:
+  - id: getState
+    type: object
+    topic: 'hues/bulb-${deviceid}/state'
+    payloadInput:
+      - power
+      - red
+      - blue
+inputs:
+  - id: power
+    name: Licht
+    metadata:
+      type: on-off
+    states:
+      - on
+      - off
+  - id: red
+    name: Helligkeit
+    metadata:
+      type: scale
+    range:
+      min: 0
+      max: 100
+  - id: green
+    name: Helligkeit
+    metadata:
+      type: scale
+    range:
+      min: 0
+      max: 100
+  - id: blue
+    name: Helligkeit
+    metadata:
+      type: scale
+    range:
+      min: 0
+      max: 100

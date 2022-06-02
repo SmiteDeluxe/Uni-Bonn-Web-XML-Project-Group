@@ -1,0 +1,611 @@
+2022-02-26T18:31:17.911+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:31:17.912+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:31:17.912+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:32:00.549+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:32:00.550+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:32:00.551+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:32:00.552+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:32:00.551+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:32:00.551+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:33:00.573+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:33:00.573+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:33:00.573+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:34:00.606+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:34:00.606+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:34:00.607+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:34:00.608+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:34:00.608+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:34:00.608+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:35:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:35:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:35:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:36:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:36:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:36:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:36:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:36:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:36:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:37:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:37:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:37:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:38:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:38:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:38:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:38:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:38:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:38:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:39:00.571+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:39:00.571+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:39:00.572+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:40:00.547+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:40:00.547+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:40:00.547+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:40:00.547+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:40:00.547+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:40:00.548+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:41:00.573+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:41:00.574+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:41:00.574+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:42:00.514+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:42:00.514+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:42:00.514+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:42:00.516+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:42:00.516+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:42:00.516+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:43:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:43:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:43:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:44:00.581+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:44:00.582+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:44:00.582+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:44:00.582+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:44:00.582+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:44:00.581+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:45:00.574+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:45:00.574+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:45:00.575+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:46:00.593+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:46:00.594+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:46:00.594+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:46:00.594+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:46:00.594+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:46:00.593+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:47:00.575+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:47:00.576+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:47:00.577+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:48:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:48:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:48:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:48:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:48:00.575+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:48:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:49:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:49:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:49:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:50:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:50:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:50:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:50:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:50:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:50:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:51:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:51:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:51:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:52:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:52:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:52:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:52:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:52:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:52:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:53:00.562+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:53:00.562+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:53:00.562+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:54:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:54:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:54:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:54:00.570+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:54:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:54:00.570+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:55:00.542+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:55:00.544+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:55:00.544+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:56:00.563+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:56:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:56:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:56:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:56:00.564+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:56:00.564+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:57:00.531+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:57:00.531+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:57:00.531+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:58:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:58:00.564+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:58:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:58:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:58:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:58:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T18:59:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T18:59:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T18:59:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:00:00.550+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:00:00.551+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:00:00.551+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:00:00.553+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:00:00.553+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:00:00.554+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:01:00.538+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:01:00.538+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:01:00.539+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:02:00.547+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:02:00.548+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:02:00.548+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:02:00.548+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:02:00.548+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:02:00.548+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:03:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:03:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:03:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:04:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:04:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:04:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:04:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:04:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:04:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:05:00.540+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:05:00.540+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:05:00.540+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:06:00.552+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:06:00.552+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:06:00.553+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:06:00.553+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:06:00.553+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:06:00.553+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:07:00.536+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:07:00.535+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:07:00.536+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:08:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:08:00.564+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:08:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:08:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:08:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:08:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:09:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:09:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:09:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:10:00.562+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:10:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:10:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:10:00.563+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:10:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:10:00.564+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:11:00.576+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:11:00.576+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:11:00.577+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:12:00.537+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:12:00.538+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:12:00.538+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:12:00.538+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:12:00.538+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:12:00.539+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:13:00.563+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:13:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:13:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:14:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:14:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:14:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:14:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:14:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:14:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:15:00.529+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:15:00.530+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:15:00.531+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:16:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:16:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:16:00.570+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:16:00.571+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:16:00.571+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:16:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:17:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:17:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:17:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:18:00.569+01:00 - TRACE - Published status "200 - States " to topic "automation/stateResponse/state/device"
+2022-02-26T19:18:00.571+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:18:00.571+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:18:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:19:00.642+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:19:00.650+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:19:00.650+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:20:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:20:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:20:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:20:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:20:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:20:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:21:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:21:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:21:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:22:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:22:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:22:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:22:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:22:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:22:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:23:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:23:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:23:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:24:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:24:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:24:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:24:00.570+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:24:00.570+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:24:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:25:00.561+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:25:00.561+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:25:00.562+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:26:00.541+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:26:00.542+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:26:00.543+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:26:00.543+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:26:00.542+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:26:00.543+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:27:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:27:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:27:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:28:00.559+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:28:00.559+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:28:00.559+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:28:00.560+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:28:00.560+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:28:00.560+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:29:00.561+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:29:00.561+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:29:00.561+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:30:00.531+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:30:00.531+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:30:00.531+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:30:00.531+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:30:00.532+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:30:00.532+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:31:00.570+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:31:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:31:00.573+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:32:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:32:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:32:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:32:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:32:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:32:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:33:00.518+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:33:00.519+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:33:00.519+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:34:00.572+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:34:00.572+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:34:00.573+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:34:00.573+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:34:00.573+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:34:00.573+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:35:00.573+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:35:00.573+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:35:00.573+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:36:00.615+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:36:00.615+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:36:00.615+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:36:00.616+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:36:00.616+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:36:00.616+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:37:00.559+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:37:00.559+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:37:00.559+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:38:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:38:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:38:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:38:00.570+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:38:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:38:00.570+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:39:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:39:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:39:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:40:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:40:00.564+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:40:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:40:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:40:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:40:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:41:00.508+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:41:00.508+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:41:00.509+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:42:00.531+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:42:00.531+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:42:00.531+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:42:00.532+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:42:00.532+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:42:00.532+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:43:00.521+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:43:00.521+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:43:00.525+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:44:00.531+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:44:00.531+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:44:00.531+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:44:00.531+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:44:00.532+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:44:00.532+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:45:00.519+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:45:00.519+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:45:00.520+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:46:00.513+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:46:00.513+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:46:00.513+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:46:00.514+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:46:00.514+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:46:00.514+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:47:00.572+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:47:00.572+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:47:00.572+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:48:00.571+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:48:00.571+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:48:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:48:00.571+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:48:00.572+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:48:00.572+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:49:00.683+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:49:00.683+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:49:00.688+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:50:00.559+01:00 - TRACE - Published status "200 - States " to topic "automation/stateResponse/state/device"
+2022-02-26T19:50:00.559+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:50:00.559+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:50:00.559+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:51:00.550+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:51:00.550+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:51:00.550+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:52:00.573+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:52:00.573+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:52:00.573+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:52:00.573+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:52:00.574+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:52:00.574+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:53:00.560+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:53:00.560+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:53:00.561+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:54:00.555+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:54:00.555+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:54:00.555+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:54:00.556+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:54:00.556+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:54:00.556+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:55:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:55:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:55:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:56:00.560+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:56:00.560+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:56:00.560+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:56:00.560+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:56:00.561+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:56:00.561+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:57:00.562+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:57:00.562+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:57:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:58:00.572+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:58:00.573+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:58:00.574+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:58:00.574+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:58:00.575+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:58:00.575+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T19:59:00.560+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T19:59:00.560+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T19:59:00.560+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:00:00.546+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:00:00.546+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:00:00.547+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:00:00.547+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:00:00.550+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:00:00.551+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:01:00.555+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:01:00.555+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:01:00.556+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:02:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:02:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:02:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:02:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:02:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:02:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:03:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:03:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:03:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:04:00.575+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:04:00.575+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:04:00.575+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:04:00.575+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:04:00.576+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:04:00.576+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:05:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:05:00.564+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:05:00.564+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:06:00.519+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:06:00.520+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:06:00.520+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:06:00.520+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:06:00.520+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:06:00.520+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:07:00.529+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:07:00.528+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:07:00.529+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:08:00.528+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:08:00.528+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:08:00.529+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:08:00.529+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:08:00.529+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:08:00.529+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:09:00.586+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:09:00.587+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:09:00.587+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:10:00.562+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:10:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:10:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:10:00.563+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:10:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:10:00.564+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:11:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:11:00.570+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:11:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:12:00.555+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:12:00.555+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:12:00.555+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:12:00.556+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:12:00.556+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:12:00.556+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:13:00.508+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:13:00.508+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:13:00.509+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:14:00.562+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:14:00.562+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:14:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:14:00.563+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:14:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:14:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:15:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:15:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:15:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:16:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:16:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:16:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:16:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:16:00.570+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:16:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:17:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:17:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:17:00.565+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:18:00.508+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:18:00.509+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:18:00.509+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:18:00.509+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:18:00.509+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:18:00.510+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:19:00.574+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:19:00.574+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:19:00.575+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:20:00.546+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:20:00.546+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:20:00.547+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:20:00.549+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:20:00.548+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:20:00.549+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:21:00.564+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:21:00.564+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:21:00.564+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:22:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:22:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:22:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:22:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:22:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:22:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:23:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:23:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:23:00.570+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:24:00.573+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:24:00.573+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:24:00.574+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:24:00.574+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:24:00.574+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:24:00.577+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:25:00.557+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:25:00.557+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:25:00.557+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:26:00.567+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:26:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:26:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:26:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:26:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:26:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:27:00.558+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:27:00.559+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:27:00.559+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:28:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:28:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:28:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:28:00.570+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:28:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:28:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:29:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:29:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:29:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:30:00.562+01:00 - TRACE - Published status "200 - States " to topic "automation/stateResponse/state/device"
+2022-02-26T20:30:00.563+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:30:00.563+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:30:00.563+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:31:00.543+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:31:00.543+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:31:00.544+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:32:00.565+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:32:00.565+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:32:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:32:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:32:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:32:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:33:00.547+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:33:00.548+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:33:00.548+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:34:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:34:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:34:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:34:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:34:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:34:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:35:00.510+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:35:00.510+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:35:00.511+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:36:00.509+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:36:00.509+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:36:00.509+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:36:00.510+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:36:00.510+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:36:00.510+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:37:00.532+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:37:00.532+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:37:00.532+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:38:00.519+01:00 - TRACE - Published status "200 - States " to topic "automation/stateResponse/state/device"
+2022-02-26T20:38:00.523+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:38:00.523+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:38:00.523+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:39:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:39:00.567+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:39:00.567+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:40:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:40:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:40:00.568+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:40:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:40:00.568+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:40:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:41:00.566+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:41:00.566+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:41:00.566+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:42:00.570+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:42:00.570+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:42:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:42:00.571+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:42:00.571+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:42:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:43:00.541+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:43:00.541+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:43:00.541+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:44:00.568+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:44:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:44:00.569+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:44:00.569+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:44:00.569+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:44:00.570+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:45:00.543+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:45:00.544+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:45:00.543+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:46:00.571+01:00 - TRACE - Published status "200 - States " to topic "automation/stateResponse/state/device"
+2022-02-26T20:46:00.571+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:46:00.571+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:46:00.571+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:47:00.561+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:47:00.561+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:47:00.562+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:48:00.536+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:48:00.536+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:48:00.537+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"
+2022-02-26T20:48:00.537+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-02-26T20:48:00.537+01:00 - WARN - Error changing state of "kitchenLamp", an error occured when posting the state
+2022-02-26T20:48:00.538+01:00 - TRACE - Published status "500 - Error changing state of "kitchenLamp", an error occured when posting the state" to topic "automation/stateResponse/state/device"

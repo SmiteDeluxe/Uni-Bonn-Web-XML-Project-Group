@@ -1,0 +1,76 @@
+2022-02-15T17:13:19.667+01:00 - INFO - ClientID: 5608dc41-fc64-4a47-9a5f-f938709ef049 wurde veröffentlicht
+2022-02-15T17:13:19.779+01:00 - INFO - Alle Gruppen wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/request/groups veröffentlicht
+2022-02-15T17:13:19.780+01:00 - TRACE - All configured users published to "5608dc41-fc64-4a47-9a5f-f938709ef049/response/users"
+2022-02-15T17:13:19.780+01:00 - INFO - Alle Geräte wurden über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/request/devices veröffentlicht
+2022-02-15T17:13:19.979+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/kitchenLamp veröffentlicht
+2022-02-15T17:13:19.980+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/livingRoomLamp veröffentlicht
+2022-02-15T17:13:19.981+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-15T17:13:19.981+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636 veröffentlicht
+2022-02-15T17:13:41.037+01:00 - INFO - Geräte  wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/request/groupDevices/kitchen veröffentlicht
+2022-02-15T17:13:41.271+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/kitchenLamp veröffentlicht
+2022-02-15T17:13:41.271+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/livingRoomLamp veröffentlicht
+2022-02-15T17:13:41.272+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-15T17:13:41.273+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/heater veröffentlicht
+2022-02-15T17:13:41.273+01:00 - INFO - State:  wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/gauge veröffentlicht
+2022-02-15T17:13:41.275+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-15T17:13:41.276+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-15T17:13:41.276+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636 veröffentlicht
+2022-02-15T17:13:58.063+01:00 - TRACE - Published status "200 - State posted!" to topic "5608dc41-fc64-4a47-9a5f-f938709ef049/stateResponse/state/device"
+2022-02-15T17:13:58.064+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-15T17:13:58.064+01:00 - INFO - State published to Device
+2022-02-15T17:13:58.999+01:00 - TRACE - Published status "200 - State posted!" to topic "5608dc41-fc64-4a47-9a5f-f938709ef049/stateResponse/state/device"
+2022-02-15T17:13:59.000+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-15T17:13:59.000+01:00 - INFO - State published to Device
+2022-02-15T17:14:00.112+01:00 - TRACE - Published status "200 - State posted!" to topic "5608dc41-fc64-4a47-9a5f-f938709ef049/stateResponse/state/device"
+2022-02-15T17:14:00.113+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-15T17:14:00.113+01:00 - INFO - State published to Device
+2022-02-15T17:14:01.417+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-15T17:14:01.417+01:00 - INFO - State published to Device
+2022-02-15T17:14:01.416+01:00 - TRACE - Published status "200 - State posted!" to topic "5608dc41-fc64-4a47-9a5f-f938709ef049/stateResponse/state/device"
+2022-02-15T17:14:05.137+01:00 - TRACE - Published status "200 - State posted!" to topic "5608dc41-fc64-4a47-9a5f-f938709ef049/stateResponse/state/device"
+2022-02-15T17:14:05.138+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-15T17:14:05.138+01:00 - INFO - State published to Device
+2022-02-15T17:16:03.309+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/kitchenLamp veröffentlicht
+2022-02-15T17:16:03.310+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/livingRoomLamp veröffentlicht
+2022-02-15T17:16:03.312+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/heater veröffentlicht
+2022-02-15T17:16:03.311+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-15T17:16:03.313+01:00 - INFO - State:  wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/gauge veröffentlicht
+2022-02-15T17:16:03.314+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-15T17:16:03.314+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-15T17:16:03.316+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 5608dc41-fc64-4a47-9a5f-f938709ef049/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636 veröffentlicht
+2022-02-15T17:16:05.769+01:00 - INFO - ClientID: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372 wurde veröffentlicht
+2022-02-15T17:16:05.813+01:00 - TRACE - All configured users published to "4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/users"
+2022-02-15T17:16:05.814+01:00 - INFO - Alle Gruppen wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/request/groups veröffentlicht
+2022-02-15T17:16:05.889+01:00 - INFO - Geräte  wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/request/groupDevices/kitchen veröffentlicht
+2022-02-15T17:16:06.122+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/kitchenLamp veröffentlicht
+2022-02-15T17:16:06.123+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/livingRoomLamp veröffentlicht
+2022-02-15T17:16:06.124+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-15T17:16:06.124+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/heater veröffentlicht
+2022-02-15T17:16:06.125+01:00 - INFO - State:  wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/gauge veröffentlicht
+2022-02-15T17:16:06.126+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-15T17:16:06.128+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636 veröffentlicht
+2022-02-15T17:16:06.128+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-15T17:24:06.654+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/kitchenLamp veröffentlicht
+2022-02-15T17:24:06.655+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/livingRoomLamp veröffentlicht
+2022-02-15T17:24:06.656+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-15T17:24:06.657+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/heater veröffentlicht
+2022-02-15T17:24:06.658+01:00 - INFO - State:  wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/gauge veröffentlicht
+2022-02-15T17:24:06.661+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-15T17:24:06.661+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-15T17:24:06.661+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636 veröffentlicht
+2022-02-15T17:24:51.980+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/kitchenLamp veröffentlicht
+2022-02-15T17:24:51.981+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/livingRoomLamp veröffentlicht
+2022-02-15T17:24:51.982+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-15T17:24:51.982+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/heater veröffentlicht
+2022-02-15T17:24:51.983+01:00 - INFO - State:  wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/gauge veröffentlicht
+2022-02-15T17:24:51.984+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-15T17:24:51.984+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-15T17:24:51.985+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636 veröffentlicht
+2022-02-15T17:42:08.323+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/kitchenLamp veröffentlicht
+2022-02-15T17:42:08.362+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/livingRoomLamp veröffentlicht
+2022-02-15T17:42:08.387+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-15T17:42:08.407+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/heater veröffentlicht
+2022-02-15T17:42:08.407+01:00 - INFO - State:  wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/gauge veröffentlicht
+2022-02-15T17:42:08.410+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-15T17:42:08.411+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-15T17:42:08.413+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 4d2570ba-4a3c-46c7-bb0f-72db39e3a372/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636 veröffentlicht

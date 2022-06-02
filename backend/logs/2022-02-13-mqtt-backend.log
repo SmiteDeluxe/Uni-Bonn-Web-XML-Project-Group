@@ -1,0 +1,130 @@
+2022-02-13T14:14:06.190+01:00 - INFO - ClientID: d4726d62-e419-4e3a-8a86-acc85831cde3 wurde veröffentlicht
+2022-02-13T14:14:06.484+01:00 - INFO - Alle Gruppen wurde über Topic: d4726d62-e419-4e3a-8a86-acc85831cde3/request/groups veröffentlicht
+2022-02-13T14:14:06.490+01:00 - TRACE - All configured users published to "d4726d62-e419-4e3a-8a86-acc85831cde3/response/users"
+2022-02-13T14:14:06.545+01:00 - INFO - Alle Geräte wurden über Topic: d4726d62-e419-4e3a-8a86-acc85831cde3/request/devices veröffentlicht
+2022-02-13T14:14:06.725+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "d4726d62-e419-4e3a-8a86-acc85831cde3/response/state/device/kitchenLamp"
+2022-02-13T14:14:06.727+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "d4726d62-e419-4e3a-8a86-acc85831cde3/response/state/device/livingRoomLamp"
+2022-02-13T14:14:06.730+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "d4726d62-e419-4e3a-8a86-acc85831cde3/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:14:06.731+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "d4726d62-e419-4e3a-8a86-acc85831cde3/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:14:32.619+01:00 - INFO - ClientID: 0da36641-5560-4b51-85b5-6c5af79f2e20 wurde veröffentlicht
+2022-02-13T14:14:32.674+01:00 - INFO - Alle Gruppen wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groups veröffentlicht
+2022-02-13T14:14:32.692+01:00 - TRACE - All configured users published to "0da36641-5560-4b51-85b5-6c5af79f2e20/response/users"
+2022-02-13T14:14:32.695+01:00 - INFO - Alle Geräte wurden über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/devices veröffentlicht
+2022-02-13T14:14:32.865+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/kitchenLamp"
+2022-02-13T14:14:32.868+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/livingRoomLamp"
+2022-02-13T14:14:32.869+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:14:32.876+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:15:28.075+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:28.765+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:31.570+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:32.067+01:00 - INFO - State published to Device
+2022-02-13T14:15:32.068+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:33.632+01:00 - INFO - State published to Device
+2022-02-13T14:15:33.634+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:34.424+01:00 - INFO - State published to Device
+2022-02-13T14:15:34.424+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:35.365+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:36.525+01:00 - INFO - State published to Device
+2022-02-13T14:15:36.526+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:41.835+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:43.415+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:44.210+01:00 - INFO - State published to Device
+2022-02-13T14:15:44.210+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:52.764+01:00 - INFO - State published to Device
+2022-02-13T14:15:52.766+01:00 - TRACE - Published status "200 - State posted!" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/stateResponse/state/device"
+2022-02-13T14:15:53.969+01:00 - INFO - Geräte  wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:15:55.131+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/kitchenLamp"
+2022-02-13T14:15:55.132+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/livingRoomLamp"
+2022-02-13T14:15:55.133+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:15:55.133+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:15:55.134+01:00 - INFO - Alle Gruppen wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groups veröffentlicht
+2022-02-13T14:15:55.135+01:00 - INFO - Alle Geräte wurden über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/devices veröffentlicht
+2022-02-13T14:15:57.299+01:00 - INFO - Geräte  wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:15:58.580+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/kitchenLamp"
+2022-02-13T14:15:58.581+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/livingRoomLamp"
+2022-02-13T14:15:58.582+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:15:58.582+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:15:58.586+01:00 - INFO - Alle Gruppen wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groups veröffentlicht
+2022-02-13T14:15:58.587+01:00 - INFO - Alle Geräte wurden über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/devices veröffentlicht
+2022-02-13T14:16:00.304+01:00 - INFO - Geräte  wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groupDevices/c2d33307-0f22-43e6-bbb0-40fae33aa616 veröffentlicht
+2022-02-13T14:16:01.746+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/kitchenLamp"
+2022-02-13T14:16:01.747+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/livingRoomLamp"
+2022-02-13T14:16:01.747+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:16:01.748+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:16:01.753+01:00 - INFO - Alle Gruppen wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groups veröffentlicht
+2022-02-13T14:16:01.753+01:00 - INFO - Alle Geräte wurden über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/devices veröffentlicht
+2022-02-13T14:16:42.001+01:00 - INFO - Geräte  wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:16:45.375+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/kitchenLamp"
+2022-02-13T14:16:45.376+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/livingRoomLamp"
+2022-02-13T14:16:45.376+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:16:45.377+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:16:45.391+01:00 - INFO - Alle Gruppen wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groups veröffentlicht
+2022-02-13T14:16:45.392+01:00 - INFO - Alle Geräte wurden über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/devices veröffentlicht
+2022-02-13T14:16:54.027+01:00 - INFO - Geräte  wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:19:04.543+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/kitchenLamp"
+2022-02-13T14:19:04.544+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/livingRoomLamp"
+2022-02-13T14:19:04.545+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:19:04.547+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0da36641-5560-4b51-85b5-6c5af79f2e20/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:19:04.549+01:00 - INFO - Alle Gruppen wurde über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/groups veröffentlicht
+2022-02-13T14:19:04.552+01:00 - INFO - Alle Geräte wurden über Topic: 0da36641-5560-4b51-85b5-6c5af79f2e20/request/devices veröffentlicht
+2022-02-13T14:19:12.233+01:00 - INFO - ClientID: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0 wurde veröffentlicht
+2022-02-13T14:19:12.296+01:00 - INFO - Alle Gruppen wurde über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/groups veröffentlicht
+2022-02-13T14:19:12.300+01:00 - TRACE - All configured users published to "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/users"
+2022-02-13T14:19:12.301+01:00 - INFO - Alle Geräte wurden über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/devices veröffentlicht
+2022-02-13T14:19:12.439+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/kitchenLamp"
+2022-02-13T14:19:12.440+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/livingRoomLamp"
+2022-02-13T14:19:12.443+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:19:12.444+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:19:41.131+01:00 - INFO - Geräte  wurde über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:19:43.179+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/kitchenLamp"
+2022-02-13T14:19:43.181+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/livingRoomLamp"
+2022-02-13T14:19:43.181+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:19:43.182+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:19:43.187+01:00 - INFO - Alle Gruppen wurde über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/groups veröffentlicht
+2022-02-13T14:19:43.188+01:00 - INFO - Alle Geräte wurden über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/devices veröffentlicht
+2022-02-13T14:20:13.959+01:00 - INFO - Geräte  wurde über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:20:16.515+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/livingRoomLamp"
+2022-02-13T14:20:16.516+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6"
+2022-02-13T14:20:16.512+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/kitchenLamp"
+2022-02-13T14:20:16.517+01:00 - TRACE - Published status "400 - Couldnt get State" to topic "0d1fed5e-73a1-4e0d-952f-a00019cd43f0/response/state/device/8fc4ba92-18e7-4494-abd4-cc56e8866636"
+2022-02-13T14:20:16.519+01:00 - INFO - Alle Gruppen wurde über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/groups veröffentlicht
+2022-02-13T14:20:16.519+01:00 - INFO - Alle Geräte wurden über Topic: 0d1fed5e-73a1-4e0d-952f-a00019cd43f0/request/devices veröffentlicht
+2022-02-13T14:22:22.135+01:00 - INFO - ClientID: 044a547d-2bfd-4561-9cfc-76bfbc862370 wurde veröffentlicht
+2022-02-13T14:22:22.232+01:00 - INFO - Alle Gruppen wurde über Topic: 044a547d-2bfd-4561-9cfc-76bfbc862370/request/groups veröffentlicht
+2022-02-13T14:22:22.233+01:00 - TRACE - All configured users published to "044a547d-2bfd-4561-9cfc-76bfbc862370/response/users"
+2022-02-13T14:22:22.233+01:00 - INFO - Alle Geräte wurden über Topic: 044a547d-2bfd-4561-9cfc-76bfbc862370/request/devices veröffentlicht
+2022-02-13T14:22:24.918+01:00 - INFO - Geräte  wurde über Topic: 044a547d-2bfd-4561-9cfc-76bfbc862370/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:22:27.535+01:00 - INFO - Alle Gruppen wurde über Topic: 044a547d-2bfd-4561-9cfc-76bfbc862370/request/groups veröffentlicht
+2022-02-13T14:22:27.537+01:00 - INFO - Alle Geräte wurden über Topic: 044a547d-2bfd-4561-9cfc-76bfbc862370/request/devices veröffentlicht
+2022-02-13T14:22:58.464+01:00 - INFO - ClientID: 36d36ffc-9a09-4adb-adff-e87029f621a8 wurde veröffentlicht
+2022-02-13T14:22:58.528+01:00 - INFO - Alle Gruppen wurde über Topic: 36d36ffc-9a09-4adb-adff-e87029f621a8/request/groups veröffentlicht
+2022-02-13T14:22:58.533+01:00 - TRACE - All configured users published to "36d36ffc-9a09-4adb-adff-e87029f621a8/response/users"
+2022-02-13T14:22:58.534+01:00 - INFO - Alle Geräte wurden über Topic: 36d36ffc-9a09-4adb-adff-e87029f621a8/request/devices veröffentlicht
+2022-02-13T14:22:58.653+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 36d36ffc-9a09-4adb-adff-e87029f621a8/response/state/device/kitchenLamp veröffentlicht
+2022-02-13T14:22:58.653+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 36d36ffc-9a09-4adb-adff-e87029f621a8/response/state/device/livingRoomLamp veröffentlicht
+2022-02-13T14:22:58.654+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 36d36ffc-9a09-4adb-adff-e87029f621a8/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-13T14:23:15.943+01:00 - INFO - ClientID: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499 wurde veröffentlicht
+2022-02-13T14:23:16.037+01:00 - INFO - Alle Gruppen wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/request/groups veröffentlicht
+2022-02-13T14:23:16.038+01:00 - TRACE - All configured users published to "a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/users"
+2022-02-13T14:23:16.038+01:00 - INFO - Alle Geräte wurden über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/request/devices veröffentlicht
+2022-02-13T14:23:16.109+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/livingRoomLamp veröffentlicht
+2022-02-13T14:23:16.109+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-13T14:23:16.107+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/kitchenLamp veröffentlicht
+2022-02-13T14:23:17.619+01:00 - INFO - Geräte  wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/request/groupDevices/kitchen veröffentlicht
+2022-02-13T14:23:17.827+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/kitchenLamp veröffentlicht
+2022-02-13T14:23:17.828+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/livingRoomLamp veröffentlicht
+2022-02-13T14:23:17.828+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-13T14:23:17.829+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/heater veröffentlicht
+2022-02-13T14:23:17.829+01:00 - INFO - State:  wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/gauge veröffentlicht
+2022-02-13T14:23:17.830+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-13T14:23:17.829+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-13T14:23:18.952+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/kitchenLamp veröffentlicht
+2022-02-13T14:23:18.953+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/livingRoomLamp veröffentlicht
+2022-02-13T14:23:18.954+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-13T14:23:18.956+01:00 - INFO - Alle Gruppen wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/request/groups veröffentlicht
+2022-02-13T14:23:18.956+01:00 - INFO - Alle Geräte wurden über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/request/devices veröffentlicht
+2022-02-13T14:23:24.987+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/kitchenLamp veröffentlicht
+2022-02-13T14:23:24.988+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/livingRoomLamp veröffentlicht
+2022-02-13T14:23:24.989+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-13T14:23:24.989+01:00 - INFO - Alle Gruppen wurde über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/request/groups veröffentlicht
+2022-02-13T14:23:24.991+01:00 - INFO - Alle Geräte wurden über Topic: a5ba5aa1-a3bc-4bcb-8fdc-418c10d03499/request/devices veröffentlicht

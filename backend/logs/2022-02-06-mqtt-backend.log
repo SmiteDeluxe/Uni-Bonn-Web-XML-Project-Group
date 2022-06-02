@@ -1,0 +1,379 @@
+2022-02-06T16:01:18.782+01:00 - INFO - Alle Gruppen wurde über Topic: 78a7e5d2-07e2-4382-a5ab-986d93aa20bd/request/groups veröffentlicht
+2022-02-06T16:01:18.788+01:00 - INFO - ClientID: 24484813-852c-4a68-bf7c-697e183179e9 wurde veröffentlicht
+2022-02-06T16:01:18.789+01:00 - INFO - Alle Geräte wurden über Topic: 78a7e5d2-07e2-4382-a5ab-986d93aa20bd/request/devices veröffentlicht
+2022-02-06T16:01:21.124+01:00 - INFO - ClientID: 8ef04c28-0a0b-4e63-817a-38d852c01bd4 wurde veröffentlicht
+2022-02-06T16:01:21.169+01:00 - INFO - Alle Gruppen wurde über Topic: 8ef04c28-0a0b-4e63-817a-38d852c01bd4/request/groups veröffentlicht
+2022-02-06T16:01:21.188+01:00 - TRACE - All configured users published to "8ef04c28-0a0b-4e63-817a-38d852c01bd4/response/users"
+2022-02-06T16:01:21.189+01:00 - INFO - Alle Geräte wurden über Topic: 8ef04c28-0a0b-4e63-817a-38d852c01bd4/request/devices veröffentlicht
+2022-02-06T16:01:22.336+01:00 - INFO - Geräte  wurde über Topic: 8ef04c28-0a0b-4e63-817a-38d852c01bd4/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:01:23.368+01:00 - INFO - Alle Gruppen wurde über Topic: 8ef04c28-0a0b-4e63-817a-38d852c01bd4/request/groups veröffentlicht
+2022-02-06T16:01:23.369+01:00 - INFO - Alle Geräte wurden über Topic: 8ef04c28-0a0b-4e63-817a-38d852c01bd4/request/devices veröffentlicht
+2022-02-06T16:01:52.670+01:00 - TRACE - Published status "200 - State posted!" to topic "8ef04c28-0a0b-4e63-817a-38d852c01bd4/stateResponse/state/device"
+2022-02-06T16:02:06.097+01:00 - TRACE - Published status "400 - Client not registered!" to topic "8ef04c28-0a0b-4e63-817a-38d852c01bd4/response/groups"
+2022-02-06T16:02:06.100+01:00 - TRACE - Published status "400 - Client not registered!" to topic "8ef04c28-0a0b-4e63-817a-38d852c01bd4/response/logList"
+2022-02-06T16:02:06.101+01:00 - TRACE - Published status "400 - Client not registered!" to topic "8ef04c28-0a0b-4e63-817a-38d852c01bd4/response/devices"
+2022-02-06T16:02:09.746+01:00 - INFO - ClientID: c1423e55-4ea1-468b-9197-14af4d3905ed wurde veröffentlicht
+2022-02-06T16:02:09.879+01:00 - INFO - Alle Gruppen wurde über Topic: c1423e55-4ea1-468b-9197-14af4d3905ed/request/groups veröffentlicht
+2022-02-06T16:02:09.882+01:00 - TRACE - All configured users published to "c1423e55-4ea1-468b-9197-14af4d3905ed/response/users"
+2022-02-06T16:02:09.882+01:00 - INFO - Alle Geräte wurden über Topic: c1423e55-4ea1-468b-9197-14af4d3905ed/request/devices veröffentlicht
+2022-02-06T16:02:13.391+01:00 - INFO - ClientID: 2b654601-3211-401b-b381-0322ff9b4738 wurde veröffentlicht
+2022-02-06T16:02:13.460+01:00 - INFO - Alle Gruppen wurde über Topic: 2b654601-3211-401b-b381-0322ff9b4738/request/groups veröffentlicht
+2022-02-06T16:02:13.462+01:00 - TRACE - All configured users published to "2b654601-3211-401b-b381-0322ff9b4738/response/users"
+2022-02-06T16:02:13.464+01:00 - INFO - Alle Geräte wurden über Topic: 2b654601-3211-401b-b381-0322ff9b4738/request/devices veröffentlicht
+2022-02-06T16:02:20.638+01:00 - INFO - ClientID: 2547c609-7078-45a7-8b76-5cb01849a5ce wurde veröffentlicht
+2022-02-06T16:02:20.713+01:00 - INFO - Alle Gruppen wurde über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/groups veröffentlicht
+2022-02-06T16:02:20.719+01:00 - TRACE - All configured users published to "2547c609-7078-45a7-8b76-5cb01849a5ce/response/users"
+2022-02-06T16:02:20.720+01:00 - INFO - Alle Geräte wurden über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/devices veröffentlicht
+2022-02-06T16:02:25.968+01:00 - INFO - Geräte  wurde über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/groupDevices/2d047952-048b-4920-854c-7d9b4dd06d6a veröffentlicht
+2022-02-06T16:02:27.226+01:00 - INFO - Alle Gruppen wurde über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/groups veröffentlicht
+2022-02-06T16:02:27.227+01:00 - INFO - Alle Geräte wurden über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/devices veröffentlicht
+2022-02-06T16:02:27.835+01:00 - INFO - Geräte  wurde über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:02:29.016+01:00 - INFO - Alle Gruppen wurde über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/groups veröffentlicht
+2022-02-06T16:02:29.017+01:00 - INFO - Alle Geräte wurden über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/devices veröffentlicht
+2022-02-06T16:02:31.345+01:00 - INFO - Geräte  wurde über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/groupDevices/2d047952-048b-4920-854c-7d9b4dd06d6a veröffentlicht
+2022-02-06T16:02:33.742+01:00 - INFO - Alle Gruppen wurde über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/groups veröffentlicht
+2022-02-06T16:02:33.743+01:00 - INFO - Alle Geräte wurden über Topic: 2547c609-7078-45a7-8b76-5cb01849a5ce/request/devices veröffentlicht
+2022-02-06T16:02:59.840+01:00 - INFO - ClientID: 06abb5ba-a428-4833-9d3a-9a182a1a6456 wurde veröffentlicht
+2022-02-06T16:03:00.011+01:00 - INFO - Alle Gruppen wurde über Topic: 06abb5ba-a428-4833-9d3a-9a182a1a6456/request/groups veröffentlicht
+2022-02-06T16:03:00.011+01:00 - TRACE - All configured users published to "06abb5ba-a428-4833-9d3a-9a182a1a6456/response/users"
+2022-02-06T16:03:00.019+01:00 - INFO - Alle Geräte wurden über Topic: 06abb5ba-a428-4833-9d3a-9a182a1a6456/request/devices veröffentlicht
+2022-02-06T16:03:36.070+01:00 - INFO - ClientID: a030ae4b-f702-47ff-81cc-01985a797753 wurde veröffentlicht
+2022-02-06T16:03:36.117+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:03:36.123+01:00 - TRACE - All configured users published to "a030ae4b-f702-47ff-81cc-01985a797753/response/users"
+2022-02-06T16:03:36.124+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:03:47.955+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:03:49.068+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:03:49.070+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:03:55.795+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:03:55.795+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:03:59.734+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:03:59.734+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-06T16:04:01.860+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:04:07.783+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:07.783+01:00 - TRACE - Published state "{"states":[{"inputId":"heater","value":25}]}" to broadcast
+2022-02-06T16:04:09.400+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:09.400+01:00 - TRACE - Published state "{"states":[{"inputId":"heater","value":27}]}" to broadcast
+2022-02-06T16:04:09.824+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:09.824+01:00 - TRACE - Published state "{"states":[{"inputId":"heater","value":27}]}" to broadcast
+2022-02-06T16:04:19.052+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:19.052+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"30"}]}" to broadcast
+2022-02-06T16:04:20.617+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:20.617+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-06T16:04:21.431+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:21.432+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"90"}]}" to broadcast
+2022-02-06T16:04:23.418+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:23.418+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-06T16:04:25.022+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:25.022+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-06T16:04:25.987+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:25.988+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-06T16:04:28.064+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:04:28.065+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:04:29.348+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:04:30.497+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:04:30.505+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:04:31.455+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/livingRoom veröffentlicht
+2022-02-06T16:04:32.469+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:04:32.470+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:04:33.064+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:04:34.240+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:04:34.241+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:04:35.439+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/2d047952-048b-4920-854c-7d9b4dd06d6a veröffentlicht
+2022-02-06T16:04:36.252+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:04:36.253+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:04:36.818+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:04:37.914+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:04:37.916+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:04:38.606+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:04:41.509+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:04:41.511+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:04:44.719+01:00 - TRACE - Published status "200 - State posted!" to topic "a030ae4b-f702-47ff-81cc-01985a797753/stateResponse/state/device"
+2022-02-06T16:04:44.719+01:00 - TRACE - Published state "{"states":[{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-06T16:04:45.834+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:05:08.051+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:05:08.052+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:06:29.942+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:06:29.943+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:08:28.844+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:08:30.830+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:08:30.834+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:08:35.578+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:08:37.097+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:08:37.101+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:08:46.916+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:08:51.530+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:08:51.531+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:08:57.499+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:08:59.645+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:08:59.646+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:09:30.146+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:09:58.066+01:00 - INFO - Alle Gruppen wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groups veröffentlicht
+2022-02-06T16:09:58.068+01:00 - INFO - Alle Geräte wurden über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/devices veröffentlicht
+2022-02-06T16:09:59.257+01:00 - INFO - Geräte  wurde über Topic: a030ae4b-f702-47ff-81cc-01985a797753/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:10:21.125+01:00 - INFO - ClientID: 7e29a131-da33-4d7c-a9dd-145cb909d433 wurde veröffentlicht
+2022-02-06T16:10:21.167+01:00 - TRACE - All configured users published to "7e29a131-da33-4d7c-a9dd-145cb909d433/response/users"
+2022-02-06T16:10:21.174+01:00 - INFO - Alle Gruppen wurde über Topic: 7e29a131-da33-4d7c-a9dd-145cb909d433/request/groups veröffentlicht
+2022-02-06T16:10:21.256+01:00 - INFO - Geräte  wurde über Topic: 7e29a131-da33-4d7c-a9dd-145cb909d433/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:10:24.742+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:10:24.742+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:10:24.743+01:00 - INFO - State published to Device
+2022-02-06T16:11:56.278+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:11:56.278+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:11:56.278+01:00 - INFO - State published to Device
+2022-02-06T16:12:32.611+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:12:32.611+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":85},{"inputId":"green","value":17},{"inputId":"blue","value":17},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:12:32.615+01:00 - INFO - State published to Device
+2022-02-06T16:12:49.657+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:12:49.657+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":2},{"inputId":"green","value":182},{"inputId":"blue","value":242},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:12:49.658+01:00 - INFO - State published to Device
+2022-02-06T16:12:58.665+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:12:58.665+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":2},{"inputId":"green","value":182},{"inputId":"blue","value":242},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:12:58.665+01:00 - INFO - State published to Device
+2022-02-06T16:13:00.356+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:00.356+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:13:00.357+01:00 - INFO - State published to Device
+2022-02-06T16:13:27.997+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:27.997+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":40},{"inputId":"green","value":36},{"inputId":"blue","value":36},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:13:27.998+01:00 - INFO - State published to Device
+2022-02-06T16:13:31.484+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:31.484+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":0},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:13:31.485+01:00 - INFO - State published to Device
+2022-02-06T16:13:36.261+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:36.261+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:13:36.261+01:00 - INFO - State published to Device
+2022-02-06T16:13:42.126+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:42.126+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:13:42.127+01:00 - INFO - State published to Device
+2022-02-06T16:13:46.500+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:46.501+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":210},{"inputId":"green","value":173},{"inputId":"blue","value":173},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-06T16:13:46.501+01:00 - INFO - State published to Device
+2022-02-06T16:13:53.678+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:53.678+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-06T16:13:53.679+01:00 - INFO - State published to Device
+2022-02-06T16:13:59.037+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:13:59.038+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":2},{"inputId":"green","value":182},{"inputId":"blue","value":242},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-06T16:13:59.038+01:00 - INFO - State published to Device
+2022-02-06T16:14:01.095+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:01.095+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":2},{"inputId":"green","value":182},{"inputId":"blue","value":242},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-06T16:14:01.096+01:00 - INFO - State published to Device
+2022-02-06T16:14:03.798+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:03.799+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"heater","value":28}]}" to broadcast
+2022-02-06T16:14:04.141+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:04.141+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"heater","value":28}]}" to broadcast
+2022-02-06T16:14:04.393+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:04.393+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"heater","value":28}]}" to broadcast
+2022-02-06T16:14:04.576+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:04.576+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"heater","value":28}]}" to broadcast
+2022-02-06T16:14:12.428+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:12.428+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"heater","value":28}]}" to broadcast
+2022-02-06T16:14:17.882+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:17.883+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":210},{"inputId":"green","value":173},{"inputId":"blue","value":173},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-06T16:14:17.883+01:00 - INFO - State published to Device
+2022-02-06T16:14:18.521+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:18.521+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":210},{"inputId":"green","value":173},{"inputId":"blue","value":173},{"inputId":"colorPicker","value":"100"}]}" to broadcast
+2022-02-06T16:14:18.522+01:00 - INFO - State published to Device
+2022-02-06T16:14:20.543+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:20.543+01:00 - INFO - State published to Device
+2022-02-06T16:14:20.543+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"100"}]}" to broadcast
+2022-02-06T16:14:24.983+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:24.983+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":248},{"inputId":"blue","value":51},{"inputId":"colorPicker","value":"100"}]}" to broadcast
+2022-02-06T16:14:24.984+01:00 - INFO - State published to Device
+2022-02-06T16:14:39.748+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-06T16:14:39.749+01:00 - INFO - State published to Device
+2022-02-06T16:14:39.748+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:40.139+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:40.139+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-06T16:14:40.140+01:00 - INFO - State published to Device
+2022-02-06T16:14:40.709+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:40.709+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-06T16:14:40.710+01:00 - INFO - State published to Device
+2022-02-06T16:14:41.386+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:41.387+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-06T16:14:41.388+01:00 - INFO - State published to Device
+2022-02-06T16:14:41.744+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:41.744+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-06T16:14:41.744+01:00 - INFO - State published to Device
+2022-02-06T16:14:42.273+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:42.273+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-06T16:14:42.273+01:00 - INFO - State published to Device
+2022-02-06T16:14:43.456+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:43.456+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-06T16:14:43.456+01:00 - INFO - State published to Device
+2022-02-06T16:14:43.925+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:43.925+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-06T16:14:43.925+01:00 - INFO - State published to Device
+2022-02-06T16:14:44.401+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-06T16:14:44.401+01:00 - INFO - State published to Device
+2022-02-06T16:14:44.400+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:44.764+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:44.766+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-06T16:14:44.767+01:00 - INFO - State published to Device
+2022-02-06T16:14:48.445+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:48.445+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"100"}]}" to broadcast
+2022-02-06T16:14:48.445+01:00 - INFO - State published to Device
+2022-02-06T16:14:50.041+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:50.041+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"0"}]}" to broadcast
+2022-02-06T16:14:50.041+01:00 - INFO - State published to Device
+2022-02-06T16:14:51.745+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:51.745+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"100"}]}" to broadcast
+2022-02-06T16:14:51.745+01:00 - INFO - State published to Device
+2022-02-06T16:14:52.469+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:52.469+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"0"}]}" to broadcast
+2022-02-06T16:14:52.469+01:00 - INFO - State published to Device
+2022-02-06T16:14:53.672+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:53.672+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"100"}]}" to broadcast
+2022-02-06T16:14:53.672+01:00 - INFO - State published to Device
+2022-02-06T16:14:54.186+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:54.186+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-06T16:14:54.186+01:00 - INFO - State published to Device
+2022-02-06T16:14:55.430+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:55.430+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-06T16:14:55.430+01:00 - INFO - State published to Device
+2022-02-06T16:14:55.686+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:55.686+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-06T16:14:55.687+01:00 - INFO - State published to Device
+2022-02-06T16:14:55.943+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:55.944+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-06T16:14:55.944+01:00 - INFO - State published to Device
+2022-02-06T16:14:56.162+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:56.162+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"30"}]}" to broadcast
+2022-02-06T16:14:56.163+01:00 - INFO - State published to Device
+2022-02-06T16:14:56.373+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:56.373+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-06T16:14:56.373+01:00 - INFO - State published to Device
+2022-02-06T16:14:56.598+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:56.599+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-06T16:14:56.599+01:00 - INFO - State published to Device
+2022-02-06T16:14:56.944+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:56.945+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-06T16:14:56.945+01:00 - INFO - State published to Device
+2022-02-06T16:14:57.447+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:57.447+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-06T16:14:57.448+01:00 - INFO - State published to Device
+2022-02-06T16:14:57.638+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:57.639+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-06T16:14:57.639+01:00 - INFO - State published to Device
+2022-02-06T16:14:57.830+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:57.830+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-06T16:14:57.831+01:00 - INFO - State published to Device
+2022-02-06T16:14:58.241+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:58.241+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-06T16:14:58.242+01:00 - INFO - State published to Device
+2022-02-06T16:14:58.434+01:00 - TRACE - Published status "200 - State posted!" to topic "7e29a131-da33-4d7c-a9dd-145cb909d433/stateResponse/state/device"
+2022-02-06T16:14:58.434+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":234},{"inputId":"green","value":87},{"inputId":"blue","value":87},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-06T16:14:58.435+01:00 - INFO - State published to Device
+2022-02-06T16:18:17.824+01:00 - INFO - Templates wurden über Topic: 7e29a131-da33-4d7c-a9dd-145cb909d433/request/templates veröffentlicht
+2022-02-06T16:18:23.127+01:00 - INFO - Templates wurden über Topic: 7e29a131-da33-4d7c-a9dd-145cb909d433/request/templates veröffentlicht
+2022-02-06T16:19:53.374+01:00 - INFO - ClientID: 68a4cb01-9054-4242-b1eb-4d7c0515fb9a wurde veröffentlicht
+2022-02-06T16:19:53.396+01:00 - TRACE - All configured users published to "68a4cb01-9054-4242-b1eb-4d7c0515fb9a/response/users"
+2022-02-06T16:19:53.397+01:00 - INFO - Alle Gruppen wurde über Topic: 68a4cb01-9054-4242-b1eb-4d7c0515fb9a/request/groups veröffentlicht
+2022-02-06T16:19:53.504+01:00 - INFO - Geräte  wurde über Topic: 68a4cb01-9054-4242-b1eb-4d7c0515fb9a/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:19:54.995+01:00 - INFO - Templates wurden über Topic: 68a4cb01-9054-4242-b1eb-4d7c0515fb9a/request/templates veröffentlicht
+2022-02-06T16:20:50.752+01:00 - TRACE - Published all devices to broadcast
+2022-02-06T16:20:50.752+01:00 - TRACE - Published status "200 - Device created!" to topic "68a4cb01-9054-4242-b1eb-4d7c0515fb9a/statusResponse/postDevice"
+2022-02-06T16:20:53.911+01:00 - INFO - ClientID: 889f5ad6-727c-4754-a9a5-9fc8013c364d wurde veröffentlicht
+2022-02-06T16:20:53.940+01:00 - TRACE - All configured users published to "889f5ad6-727c-4754-a9a5-9fc8013c364d/response/users"
+2022-02-06T16:20:53.941+01:00 - INFO - Alle Gruppen wurde über Topic: 889f5ad6-727c-4754-a9a5-9fc8013c364d/request/groups veröffentlicht
+2022-02-06T16:20:54.045+01:00 - INFO - Geräte  wurde über Topic: 889f5ad6-727c-4754-a9a5-9fc8013c364d/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:20:57.177+01:00 - TRACE - Published status "200 - State posted!" to topic "889f5ad6-727c-4754-a9a5-9fc8013c364d/stateResponse/state/device"
+2022-02-06T16:21:12.533+01:00 - TRACE - Published status "400 - Client not registered!" to topic "889f5ad6-727c-4754-a9a5-9fc8013c364d/stateResponse/state/device"
+2022-02-06T16:21:16.411+01:00 - INFO - ClientID: 6d586950-c98e-4bad-b310-32e236368fe9 wurde veröffentlicht
+2022-02-06T16:21:16.513+01:00 - TRACE - All configured users published to "6d586950-c98e-4bad-b310-32e236368fe9/response/users"
+2022-02-06T16:21:16.515+01:00 - INFO - Alle Gruppen wurde über Topic: 6d586950-c98e-4bad-b310-32e236368fe9/request/groups veröffentlicht
+2022-02-06T16:21:16.582+01:00 - INFO - Geräte  wurde über Topic: 6d586950-c98e-4bad-b310-32e236368fe9/request/groupDevices/kitchen veröffentlicht
+2022-02-06T16:21:18.418+01:00 - TRACE - Published status "200 - State posted!" to topic "6d586950-c98e-4bad-b310-32e236368fe9/stateResponse/state/device"
+2022-02-06T16:21:18.418+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"red","value":255},{"inputId":"green","value":148},{"inputId":"blue","value":148}]}" to broadcast
+2022-02-06T16:21:18.419+01:00 - INFO - State published to Device
+2022-02-06T16:21:21.501+01:00 - TRACE - Published status "200 - State posted!" to topic "6d586950-c98e-4bad-b310-32e236368fe9/stateResponse/state/device"
+2022-02-06T16:21:21.502+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"red","value":79},{"inputId":"green","value":28},{"inputId":"blue","value":28}]}" to broadcast
+2022-02-06T16:21:21.502+01:00 - INFO - State published to Device
+2022-02-06T16:21:23.482+01:00 - TRACE - Published status "200 - State posted!" to topic "6d586950-c98e-4bad-b310-32e236368fe9/stateResponse/state/device"
+2022-02-06T16:21:23.483+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"red","value":255},{"inputId":"green","value":77},{"inputId":"blue","value":77}]}" to broadcast
+2022-02-06T16:21:23.483+01:00 - INFO - State published to Device
+2022-02-06T16:23:35.428+01:00 - TRACE - Published status "200 - State posted!" to topic "6d586950-c98e-4bad-b310-32e236368fe9/stateResponse/state/device"
+2022-02-06T16:23:35.428+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":null},{"inputId":"red","value":218},{"inputId":"green","value":16},{"inputId":"blue","value":16}]}" to broadcast
+2022-02-06T16:23:35.429+01:00 - INFO - State published to Device
+2022-02-06T17:17:23.823+01:00 - INFO - ClientID: 0bf457d8-8a99-4840-b738-1d458395c25d wurde veröffentlicht
+2022-02-06T17:17:23.870+01:00 - TRACE - All configured users published to "0bf457d8-8a99-4840-b738-1d458395c25d/response/users"
+2022-02-06T17:17:23.870+01:00 - INFO - Alle Gruppen wurde über Topic: 0bf457d8-8a99-4840-b738-1d458395c25d/request/groups veröffentlicht
+2022-02-06T17:17:23.942+01:00 - INFO - Geräte  wurde über Topic: 0bf457d8-8a99-4840-b738-1d458395c25d/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:40:52.476+01:00 - TRACE - Published status "200 - State posted!" to topic "0bf457d8-8a99-4840-b738-1d458395c25d/stateResponse/state/device"
+2022-02-06T17:40:52.477+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null}]}" to broadcast
+2022-02-06T17:40:52.477+01:00 - INFO - State published to Device
+2022-02-06T17:40:58.403+01:00 - INFO - Alle Gruppen wurde über Topic: 0bf457d8-8a99-4840-b738-1d458395c25d/request/groups veröffentlicht
+2022-02-06T17:40:58.405+01:00 - INFO - Alle Geräte wurden über Topic: 0bf457d8-8a99-4840-b738-1d458395c25d/request/devices veröffentlicht
+2022-02-06T17:41:06.370+01:00 - TRACE - Published status "200 - Group created" to topic "0bf457d8-8a99-4840-b738-1d458395c25d/statusResponse/postGroup"
+2022-02-06T17:41:06.373+01:00 - TRACE - Published all groups to broadcast
+2022-02-06T17:41:17.187+01:00 - INFO - ClientID: 9f47cb02-09e5-4fc4-a023-3b5e93ac499f wurde veröffentlicht
+2022-02-06T17:41:17.217+01:00 - INFO - Alle Gruppen wurde über Topic: 9f47cb02-09e5-4fc4-a023-3b5e93ac499f/request/groups veröffentlicht
+2022-02-06T17:41:17.219+01:00 - TRACE - All configured users published to "9f47cb02-09e5-4fc4-a023-3b5e93ac499f/response/users"
+2022-02-06T17:41:17.219+01:00 - INFO - Alle Geräte wurden über Topic: 9f47cb02-09e5-4fc4-a023-3b5e93ac499f/request/devices veröffentlicht
+2022-02-06T17:45:07.405+01:00 - INFO - Geräte  wurde über Topic: 9f47cb02-09e5-4fc4-a023-3b5e93ac499f/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:46:09.884+01:00 - INFO - Geräte  wurde über Topic: 9f47cb02-09e5-4fc4-a023-3b5e93ac499f/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:46:09.885+01:00 - INFO - ClientID: fb1a6900-709c-495a-bc07-c0e874fcd42d wurde veröffentlicht
+2022-02-06T17:46:14.633+01:00 - INFO - Templates wurden über Topic: fb1a6900-709c-495a-bc07-c0e874fcd42d/request/templates veröffentlicht
+2022-02-06T17:46:22.412+01:00 - TRACE - Published all devices to broadcast
+2022-02-06T17:46:22.413+01:00 - TRACE - Published status "200 - Device created!" to topic "fb1a6900-709c-495a-bc07-c0e874fcd42d/statusResponse/postDevice"
+2022-02-06T17:46:26.667+01:00 - INFO - ClientID: 7ad37ec1-f6dd-4646-afdf-d8519e74ca8b wurde veröffentlicht
+2022-02-06T17:46:26.691+01:00 - TRACE - All configured users published to "7ad37ec1-f6dd-4646-afdf-d8519e74ca8b/response/users"
+2022-02-06T17:46:26.693+01:00 - INFO - Alle Gruppen wurde über Topic: 7ad37ec1-f6dd-4646-afdf-d8519e74ca8b/request/groups veröffentlicht
+2022-02-06T17:46:26.782+01:00 - INFO - Geräte  wurde über Topic: 7ad37ec1-f6dd-4646-afdf-d8519e74ca8b/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:47:24.021+01:00 - INFO - Geräte  wurde über Topic: 7ad37ec1-f6dd-4646-afdf-d8519e74ca8b/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:47:24.021+01:00 - INFO - ClientID: a80de1c2-77b7-4274-afe9-fd1e31255947 wurde veröffentlicht
+2022-02-06T17:47:27.054+01:00 - TRACE - Published status "200 - Device deleted" to topic "a80de1c2-77b7-4274-afe9-fd1e31255947/statusResponse/deleteDevice"
+2022-02-06T17:47:27.055+01:00 - TRACE - Published all devices to broadcast
+2022-02-06T17:47:27.166+01:00 - INFO - Geräte  wurde über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:47:31.596+01:00 - INFO - Templates wurden über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/templates veröffentlicht
+2022-02-06T17:47:38.716+01:00 - TRACE - Published all devices to broadcast
+2022-02-06T17:47:38.716+01:00 - TRACE - Published status "200 - Device created!" to topic "a80de1c2-77b7-4274-afe9-fd1e31255947/statusResponse/postDevice"
+2022-02-06T17:47:38.730+01:00 - INFO - Geräte  wurde über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:47:44.319+01:00 - INFO - Alle Gruppen wurde über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/groups veröffentlicht
+2022-02-06T17:47:44.321+01:00 - INFO - Alle Geräte wurden über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/devices veröffentlicht
+2022-02-06T17:47:48.455+01:00 - INFO - Geräte  wurde über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/groupDevices/2d047952-048b-4920-854c-7d9b4dd06d6a veröffentlicht
+2022-02-06T17:47:50.083+01:00 - INFO - Alle Gruppen wurde über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/groups veröffentlicht
+2022-02-06T17:47:50.085+01:00 - INFO - Alle Geräte wurden über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/devices veröffentlicht
+2022-02-06T17:47:50.945+01:00 - INFO - Geräte  wurde über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/groupDevices/kitchen veröffentlicht
+2022-02-06T17:47:53.877+01:00 - INFO - Alle Gruppen wurde über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/groups veröffentlicht
+2022-02-06T17:47:53.879+01:00 - INFO - Alle Geräte wurden über Topic: a80de1c2-77b7-4274-afe9-fd1e31255947/request/devices veröffentlicht
+2022-02-06T17:48:00.046+01:00 - TRACE - Published status "200 - Group created" to topic "a80de1c2-77b7-4274-afe9-fd1e31255947/statusResponse/postGroup"
+2022-02-06T17:48:00.047+01:00 - TRACE - Published all groups to broadcast
+2022-02-06T17:48:03.707+01:00 - TRACE - Published status "200 - Group deleted" to topic "a80de1c2-77b7-4274-afe9-fd1e31255947/statusResponse/deleteGroup"
+2022-02-06T17:48:03.708+01:00 - TRACE - Published all groups to broadcast
+2022-02-06T17:48:06.788+01:00 - TRACE - Published status "200 - Group deleted" to topic "a80de1c2-77b7-4274-afe9-fd1e31255947/statusResponse/deleteGroup"
+2022-02-06T17:48:06.789+01:00 - TRACE - Published all groups to broadcast
+2022-02-06T17:48:12.483+01:00 - TRACE - Published status "200 - Group created" to topic "a80de1c2-77b7-4274-afe9-fd1e31255947/statusResponse/postGroup"
+2022-02-06T17:48:12.484+01:00 - TRACE - Published all groups to broadcast
+2022-02-06T17:57:12.673+01:00 - INFO - ClientID: 48dca4f8-797e-46eb-84eb-3884e1258906 wurde veröffentlicht
+2022-02-06T17:57:12.696+01:00 - INFO - Alle Gruppen wurde über Topic: 48dca4f8-797e-46eb-84eb-3884e1258906/request/groups veröffentlicht
+2022-02-06T17:57:12.697+01:00 - TRACE - All configured users published to "48dca4f8-797e-46eb-84eb-3884e1258906/response/users"
+2022-02-06T17:57:12.697+01:00 - INFO - Alle Geräte wurden über Topic: 48dca4f8-797e-46eb-84eb-3884e1258906/request/devices veröffentlicht
+2022-02-06T17:57:25.531+01:00 - TRACE - Published status "200 - Group created" to topic "48dca4f8-797e-46eb-84eb-3884e1258906/statusResponse/postGroup"
+2022-02-06T17:57:25.534+01:00 - TRACE - Published all groups to broadcast
+2022-02-06T18:01:33.435+01:00 - INFO - Alle Gruppen wurde über Topic: 48dca4f8-797e-46eb-84eb-3884e1258906/request/groups veröffentlicht
+2022-02-06T18:01:33.437+01:00 - INFO - ClientID: 9f8a9f58-68bc-426a-a106-b6f6aa9b509b wurde veröffentlicht
+2022-02-06T18:01:33.438+01:00 - INFO - Alle Geräte wurden über Topic: 48dca4f8-797e-46eb-84eb-3884e1258906/request/devices veröffentlicht
+2022-02-06T18:01:33.439+01:00 - INFO - Alle Gruppen wurde über Topic: 48dca4f8-797e-46eb-84eb-3884e1258906/request/groups veröffentlicht
+2022-02-06T18:01:33.443+01:00 - INFO - Alle Geräte wurden über Topic: 48dca4f8-797e-46eb-84eb-3884e1258906/request/devices veröffentlicht
+2022-02-06T18:02:36.888+01:00 - INFO - Alle Gruppen wurde über Topic: 9f8a9f58-68bc-426a-a106-b6f6aa9b509b/request/groups veröffentlicht
+2022-02-06T18:02:36.889+01:00 - INFO - ClientID: 0af46289-4d6f-41af-82a6-42a8133b1033 wurde veröffentlicht
+2022-02-06T18:02:36.889+01:00 - INFO - Alle Geräte wurden über Topic: 9f8a9f58-68bc-426a-a106-b6f6aa9b509b/request/devices veröffentlicht
+2022-02-06T18:04:06.282+01:00 - INFO - Alle Gruppen wurde über Topic: 0af46289-4d6f-41af-82a6-42a8133b1033/request/groups veröffentlicht
+2022-02-06T18:04:06.284+01:00 - INFO - Alle Geräte wurden über Topic: 0af46289-4d6f-41af-82a6-42a8133b1033/request/devices veröffentlicht
+2022-02-06T18:04:06.283+01:00 - INFO - ClientID: 511b7e1c-e45b-448a-a9d7-0ebff090492b wurde veröffentlicht
+2022-02-06T18:04:06.288+01:00 - INFO - Alle Gruppen wurde über Topic: 0af46289-4d6f-41af-82a6-42a8133b1033/request/groups veröffentlicht
+2022-02-06T18:04:06.288+01:00 - INFO - Alle Geräte wurden über Topic: 0af46289-4d6f-41af-82a6-42a8133b1033/request/devices veröffentlicht
+2022-02-06T18:04:34.832+01:00 - INFO - Geräte  wurde über Topic: 511b7e1c-e45b-448a-a9d7-0ebff090492b/request/groupDevices/c2d33307-0f22-43e6-bbb0-40fae33aa616 veröffentlicht
+2022-02-06T18:04:37.350+01:00 - INFO - Alle Gruppen wurde über Topic: 511b7e1c-e45b-448a-a9d7-0ebff090492b/request/groups veröffentlicht
+2022-02-06T18:04:37.352+01:00 - INFO - Alle Geräte wurden über Topic: 511b7e1c-e45b-448a-a9d7-0ebff090492b/request/devices veröffentlicht
+2022-02-06T18:04:38.100+01:00 - INFO - Geräte  wurde über Topic: 511b7e1c-e45b-448a-a9d7-0ebff090492b/request/groupDevices/kitchen veröffentlicht
+2022-02-06T18:05:05.585+01:00 - ERROR - Template with id undefined not found
+2022-02-06T18:05:05.585+01:00 - TRACE - Published status "400 - Device not updated!" to topic "511b7e1c-e45b-448a-a9d7-0ebff090492b/statusResponse/updateDevice"
+2022-02-06T18:05:40.211+01:00 - ERROR - Template with id undefined not found
+2022-02-06T18:05:40.213+01:00 - TRACE - Published status "400 - Device not updated!" to topic "511b7e1c-e45b-448a-a9d7-0ebff090492b/statusResponse/updateDevice"
+2022-02-06T20:32:03.487+01:00 - INFO - ClientID: 31db00bf-1c7b-4127-800e-307b2c12aa96 wurde veröffentlicht
+2022-02-06T20:32:03.488+01:00 - INFO - Geräte  wurde über Topic: 511b7e1c-e45b-448a-a9d7-0ebff090492b/request/groupDevices/kitchen veröffentlicht
+2022-02-06T20:33:11.751+01:00 - INFO - ClientID: 55f4b58d-d294-4244-80fe-98f22bca97e8 wurde veröffentlicht
+2022-02-06T20:33:11.752+01:00 - INFO - Geräte  wurde über Topic: 31db00bf-1c7b-4127-800e-307b2c12aa96/request/groupDevices/kitchen veröffentlicht
+2022-02-06T20:33:11.752+01:00 - INFO - Geräte  wurde über Topic: 31db00bf-1c7b-4127-800e-307b2c12aa96/request/groupDevices/kitchen veröffentlicht
+2022-02-06T20:33:24.841+01:00 - ERROR - Template with id undefined not found
+2022-02-06T20:33:24.841+01:00 - TRACE - Published status "400 - Device not updated!" to topic "55f4b58d-d294-4244-80fe-98f22bca97e8/statusResponse/updateDevice"

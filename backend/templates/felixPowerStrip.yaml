@@ -1,0 +1,86 @@
+id: felixPowerStrip
+name: Felix Steckdosenleiste
+placeholders:
+  - id: prefix
+    name: Prefix
+    description: Prefix of the MQTT Topic the command is sent to
+metadata:
+  iconColor: yellow
+actions:
+  - id: setPower2
+    type: command
+    topic: '${prefix}/cmnd/Power2'
+    payloadInput: power2
+  - id: setPower3
+    type: command
+    topic: '${prefix}/cmnd/Power3'
+    payloadInput: power3
+  - id: setPower4
+    type: command
+    topic: '${prefix}/cmnd/Power4'
+    payloadInput: power4
+  - id: setPower5
+    type: command
+    topic: '${prefix}/cmnd/Power5'
+    payloadInput: power5
+  - id: setPower6
+    type: command
+    topic: '${prefix}/cmnd/Power6'
+    payloadInput: power6
+listeners:
+  - id: getPower2
+    type: command
+    topic: '${prefix}/Power2'
+    payloadInput: power2
+  - id: getPower3
+    type: command
+    topic: '${prefix}/Power3'
+    payloadInput: power3
+  - id: getPower4
+    type: command
+    topic: '${prefix}/Power4'
+    payloadInput: power4
+  - id: getPower5
+    type: command
+    topic: '${prefix}/Power5'
+    payloadInput: power5
+  - id: getPower6
+    type: command
+    topic: '${prefix}/Power6'
+    payloadInput: power6
+inputs:
+  - id: power2
+    name: 'Steckdose 1'
+    metadata:
+      type: discrete
+    states:
+      - ON
+      - OFF
+  - id: power3
+    name: 'Steckdose 2'
+    metadata:
+      type: discrete
+    states:
+      - ON
+      - OFF
+  - id: power4
+    name: 'Steckdose 3'
+    metadata:
+      type: discrete
+    states:
+      - ON
+      - OFF
+  - id: power5
+    name: 'Steckdose 4'
+    metadata:
+      type: discrete
+    states:
+      - ON
+      - OFF
+  - id: power6
+    name: 'Steckdose 5'
+    metadata:
+      type: discrete
+    states:
+      - ON
+      - OFF

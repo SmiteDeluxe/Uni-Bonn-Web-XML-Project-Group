@@ -1,0 +1,270 @@
+2022-03-02T15:07:05.556+01:00 - INFO - Geräte  wurde über Topic: 4a825951-d0b3-4e0b-a517-229e282dce8c/request/groupDevices/kitchen veröffentlicht
+2022-03-02T15:07:05.558+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T15:07:05.558+01:00 - INFO - State: [object Object] wurde über Topic: 4a825951-d0b3-4e0b-a517-229e282dce8c/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T15:07:05.559+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T15:07:05.560+01:00 - INFO - State: [object Object] wurde über Topic: 4a825951-d0b3-4e0b-a517-229e282dce8c/response/state/device/heater veröffentlicht
+2022-03-02T15:07:05.560+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T15:07:05.560+01:00 - INFO - State: [object Object] wurde über Topic: 4a825951-d0b3-4e0b-a517-229e282dce8c/response/state/device/gauge veröffentlicht
+2022-03-02T15:07:05.557+01:00 - INFO - ClientID: b33520f1-4b1c-432e-8cf7-fe53841f50c4 wurde veröffentlicht
+2022-03-02T15:07:05.557+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T15:07:05.557+01:00 - INFO - State: [object Object] wurde über Topic: 4a825951-d0b3-4e0b-a517-229e282dce8c/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T15:07:05.560+01:00 - INFO - State: [object Object] wurde über Topic: 4a825951-d0b3-4e0b-a517-229e282dce8c/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T15:07:17.729+01:00 - INFO - ClientID: 65a2c255-a4ba-4105-9491-7f3277803d85 wurde veröffentlicht
+2022-03-02T15:07:17.767+01:00 - TRACE - All configured users published to "65a2c255-a4ba-4105-9491-7f3277803d85/response/users"
+2022-03-02T15:07:17.767+01:00 - INFO - Alle Gruppen wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/request/groups veröffentlicht
+2022-03-02T15:07:17.853+01:00 - INFO - Geräte  wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/request/groupDevices/kitchen veröffentlicht
+2022-03-02T15:07:18.040+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T15:07:18.040+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T15:07:18.058+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T15:07:18.059+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T15:07:18.059+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T15:07:18.059+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/heater veröffentlicht
+2022-03-02T15:07:18.061+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T15:07:18.061+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/gauge veröffentlicht
+2022-03-02T15:07:18.062+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T15:07:27.894+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":213},{"inputId":"blue","value":0},{"inputId":"gain","value":30}]}" to broadcast
+2022-03-02T15:07:27.903+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:31.815+01:00 - INFO - State published to Device
+2022-03-02T15:07:31.847+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:31.848+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:32.316+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:07:33.362+01:00 - INFO - State published to Device
+2022-03-02T15:07:33.389+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:33.391+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:33.863+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:07:35.444+01:00 - INFO - State published to Device
+2022-03-02T15:07:35.483+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:35.484+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":30}]}" to broadcast
+2022-03-02T15:07:35.946+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:07:37.207+01:00 - INFO - State published to Device
+2022-03-02T15:07:37.236+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":30}]}" to broadcast
+2022-03-02T15:07:37.238+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:37.708+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:07:46.781+01:00 - INFO - State published to Device
+2022-03-02T15:07:46.812+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:07:46.813+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:07:47.281+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:07:50.959+01:00 - INFO - State published to Device
+2022-03-02T15:07:50.988+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:07:50.990+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:07:51.462+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:07:56.237+01:00 - INFO - State published to Device
+2022-03-02T15:07:56.275+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:07:56.276+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:07:56.738+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:07:57.878+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:07:57.880+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:00.163+01:00 - INFO - State published to Device
+2022-03-02T15:08:00.192+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":40},{"inputId":"blue","value":0},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:00.194+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":77},{"inputId":"blue","value":77},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:00.664+01:00 - TRACE - Published status "200 - States " to topic "65a2c255-a4ba-4105-9491-7f3277803d85/stateResponse/state/device"
+2022-03-02T15:08:15.022+01:00 - INFO - Geräte  wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/request/groupDevices/kitchen veröffentlicht
+2022-03-02T15:08:15.023+01:00 - INFO - ClientID: 0a68059c-c6d5-4349-a698-af4433a23ab4 wurde veröffentlicht
+2022-03-02T15:08:15.024+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T15:08:15.024+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T15:08:15.027+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T15:08:15.027+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T15:08:15.028+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T15:08:15.029+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/heater veröffentlicht
+2022-03-02T15:08:15.030+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T15:08:15.030+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/gauge veröffentlicht
+2022-03-02T15:08:15.034+01:00 - INFO - State: [object Object] wurde über Topic: 65a2c255-a4ba-4105-9491-7f3277803d85/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T15:08:15.757+01:00 - INFO - ClientID: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4 wurde veröffentlicht
+2022-03-02T15:08:15.793+01:00 - TRACE - All configured users published to "b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/users"
+2022-03-02T15:08:15.797+01:00 - INFO - Alle Gruppen wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/request/groups veröffentlicht
+2022-03-02T15:08:15.879+01:00 - INFO - Geräte  wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/request/groupDevices/kitchen veröffentlicht
+2022-03-02T15:08:16.037+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T15:08:16.037+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T15:08:16.039+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T15:08:16.040+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T15:08:16.041+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T15:08:16.041+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/heater veröffentlicht
+2022-03-02T15:08:16.042+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T15:08:16.048+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/gauge veröffentlicht
+2022-03-02T15:08:16.048+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T15:08:24.068+01:00 - INFO - State published to Device
+2022-03-02T15:08:24.098+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":255},{"inputId":"green","value":77},{"inputId":"blue","value":77},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:24.100+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:24.569+01:00 - TRACE - Published status "200 - States " to topic "b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/stateResponse/state/device"
+2022-03-02T15:08:27.885+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:27.887+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:30.652+01:00 - INFO - Geräte  wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/request/groupDevices/kitchen veröffentlicht
+2022-03-02T15:08:30.655+01:00 - INFO - ClientID: 8a0fef6c-096d-4a3e-b939-5e880313471c wurde veröffentlicht
+2022-03-02T15:08:30.655+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T15:08:30.655+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T15:08:30.659+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T15:08:30.659+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T15:08:30.660+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T15:08:30.660+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/heater veröffentlicht
+2022-03-02T15:08:30.660+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T15:08:30.660+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/gauge veröffentlicht
+2022-03-02T15:08:30.661+01:00 - INFO - State: [object Object] wurde über Topic: b45d3b6e-18e5-46dc-8fc3-3d1a81e7dba4/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T15:08:34.885+01:00 - INFO - ClientID: 83177e60-5e9f-44a5-b67f-0295bb83e7b8 wurde veröffentlicht
+2022-03-02T15:08:34.918+01:00 - TRACE - All configured users published to "83177e60-5e9f-44a5-b67f-0295bb83e7b8/response/users"
+2022-03-02T15:08:34.919+01:00 - INFO - Alle Gruppen wurde über Topic: 83177e60-5e9f-44a5-b67f-0295bb83e7b8/request/groups veröffentlicht
+2022-03-02T15:08:35.008+01:00 - INFO - Geräte  wurde über Topic: 83177e60-5e9f-44a5-b67f-0295bb83e7b8/request/groupDevices/kitchen veröffentlicht
+2022-03-02T15:08:35.252+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T15:08:35.252+01:00 - INFO - State: [object Object] wurde über Topic: 83177e60-5e9f-44a5-b67f-0295bb83e7b8/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T15:08:35.253+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T15:08:35.255+01:00 - INFO - State: [object Object] wurde über Topic: 83177e60-5e9f-44a5-b67f-0295bb83e7b8/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T15:08:35.257+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T15:08:35.261+01:00 - INFO - State: [object Object] wurde über Topic: 83177e60-5e9f-44a5-b67f-0295bb83e7b8/response/state/device/heater veröffentlicht
+2022-03-02T15:08:35.262+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T15:08:35.262+01:00 - INFO - State: [object Object] wurde über Topic: 83177e60-5e9f-44a5-b67f-0295bb83e7b8/response/state/device/gauge veröffentlicht
+2022-03-02T15:08:35.264+01:00 - INFO - State: [object Object] wurde über Topic: 83177e60-5e9f-44a5-b67f-0295bb83e7b8/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T15:08:37.442+01:00 - INFO - State published to Device
+2022-03-02T15:08:37.474+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":10}]}" to broadcast
+2022-03-02T15:08:37.476+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:08:37.944+01:00 - TRACE - Published status "200 - States " to topic "83177e60-5e9f-44a5-b67f-0295bb83e7b8/stateResponse/state/device"
+2022-03-02T15:08:57.893+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:08:57.901+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:09:27.898+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:09:27.899+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:09:29.949+01:00 - INFO - State published to Device
+2022-03-02T15:09:29.975+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:09:29.977+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:09:30.473+01:00 - TRACE - Published status "200 - States " to topic "83177e60-5e9f-44a5-b67f-0295bb83e7b8/stateResponse/state/device"
+2022-03-02T15:09:57.896+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:09:57.897+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:10:27.899+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:10:27.901+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:10:57.899+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:10:57.899+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:11:27.902+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:11:27.902+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:11:57.907+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:11:57.909+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:12:27.908+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:12:27.910+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:12:57.910+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:12:57.911+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:13:27.913+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:13:27.914+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:13:57.929+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:13:57.930+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:14:27.934+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:14:27.935+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:14:57.925+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:14:57.940+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:15:27.930+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:15:27.931+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:15:57.945+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:15:57.948+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:16:27.941+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:16:27.942+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:16:57.959+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:16:57.962+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:17:27.962+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:17:27.963+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:17:57.954+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:17:57.966+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:18:27.962+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:18:27.964+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:18:57.965+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:18:57.967+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:19:27.971+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:19:27.974+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:19:57.977+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:19:57.978+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:20:27.983+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:20:27.985+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:20:57.987+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:20:57.988+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:21:27.993+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:21:27.994+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:21:58.010+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:21:58.012+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:22:28.006+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:22:28.018+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:22:58.010+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:22:58.023+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:23:28.021+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:23:28.021+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:23:58.023+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:23:58.024+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:24:28.030+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:24:28.032+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:24:58.035+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:24:58.038+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:25:28.046+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:25:28.046+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:25:58.047+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:25:58.047+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:26:28.052+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:26:28.054+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:26:58.058+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:26:58.061+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:27:28.065+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:27:28.065+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:27:58.069+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:27:58.069+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:28:28.071+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:28:28.073+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:28:58.075+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:28:58.076+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:29:28.082+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:29:28.083+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:29:58.085+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:29:58.085+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:30:28.089+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:30:28.091+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:30:58.097+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:30:58.097+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:31:28.101+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:31:28.102+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:31:58.105+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:31:58.106+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:32:28.111+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:32:28.111+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:32:58.115+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:32:58.115+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:33:28.121+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:33:28.122+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:33:58.125+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T15:33:58.126+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"mode","value":"color"},{"inputId":"red","value":55},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"gain","value":100}]}" to broadcast
+2022-03-02T22:47:49.121+01:00 - INFO - ClientID: 6db2184b-b44b-4fab-82ca-4b309aa25033 wurde veröffentlicht
+2022-03-02T22:47:49.416+01:00 - INFO - Alle Gruppen wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/request/groups veröffentlicht
+2022-03-02T22:47:49.420+01:00 - TRACE - All configured users published to "6db2184b-b44b-4fab-82ca-4b309aa25033/response/users"
+2022-03-02T22:47:49.422+01:00 - INFO - Alle Geräte wurden über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/request/devices veröffentlicht
+2022-03-02T22:47:50.713+01:00 - INFO - Geräte  wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/request/groupDevices/kitchen veröffentlicht
+2022-03-02T22:47:50.859+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T22:47:50.859+01:00 - INFO - State: [object Object] wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T22:47:50.862+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T22:47:50.862+01:00 - INFO - State: [object Object] wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T22:47:50.864+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T22:47:50.864+01:00 - INFO - State: [object Object] wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/response/state/device/heater veröffentlicht
+2022-03-02T22:47:50.865+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T22:47:50.865+01:00 - INFO - State: [object Object] wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/response/state/device/gauge veröffentlicht
+2022-03-02T22:47:50.866+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-02T22:47:50.866+01:00 - INFO - State: [object Object] wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T22:50:01.326+01:00 - INFO - Alle Gruppen wurde über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/request/groups veröffentlicht
+2022-03-02T22:50:01.328+01:00 - INFO - Alle Geräte wurden über Topic: 6db2184b-b44b-4fab-82ca-4b309aa25033/request/devices veröffentlicht
+2022-03-02T22:50:02.366+01:00 - INFO - ClientID: d9663156-842a-48a6-883d-57e99e89289e wurde veröffentlicht
+2022-03-02T22:50:02.394+01:00 - INFO - Alle Gruppen wurde über Topic: d9663156-842a-48a6-883d-57e99e89289e/request/groups veröffentlicht
+2022-03-02T22:50:02.398+01:00 - TRACE - All configured users published to "d9663156-842a-48a6-883d-57e99e89289e/response/users"
+2022-03-02T22:50:02.399+01:00 - INFO - Alle Geräte wurden über Topic: d9663156-842a-48a6-883d-57e99e89289e/request/devices veröffentlicht
+2022-03-02T22:50:03.505+01:00 - INFO - Geräte  wurde über Topic: d9663156-842a-48a6-883d-57e99e89289e/request/groupDevices/kitchen veröffentlicht
+2022-03-02T22:50:03.627+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T22:50:03.627+01:00 - INFO - State: [object Object] wurde über Topic: d9663156-842a-48a6-883d-57e99e89289e/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T22:50:03.628+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T22:50:03.628+01:00 - INFO - State: [object Object] wurde über Topic: d9663156-842a-48a6-883d-57e99e89289e/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T22:50:03.629+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T22:50:03.629+01:00 - INFO - State: [object Object] wurde über Topic: d9663156-842a-48a6-883d-57e99e89289e/response/state/device/heater veröffentlicht
+2022-03-02T22:50:03.632+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T22:50:03.632+01:00 - INFO - State: [object Object] wurde über Topic: d9663156-842a-48a6-883d-57e99e89289e/response/state/device/gauge veröffentlicht
+2022-03-02T22:50:03.633+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-02T22:50:03.633+01:00 - INFO - State: [object Object] wurde über Topic: d9663156-842a-48a6-883d-57e99e89289e/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-02T22:50:54.504+01:00 - INFO - ClientID: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007 wurde veröffentlicht
+2022-03-02T22:50:54.534+01:00 - TRACE - All configured users published to "abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/response/users"
+2022-03-02T22:50:54.535+01:00 - INFO - Alle Gruppen wurde über Topic: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/request/groups veröffentlicht
+2022-03-02T22:50:54.628+01:00 - INFO - Geräte  wurde über Topic: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/request/groupDevices/kitchen veröffentlicht
+2022-03-02T22:50:54.753+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-02T22:50:54.754+01:00 - INFO - State: [object Object] wurde über Topic: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/response/state/device/kitchenLamp veröffentlicht
+2022-03-02T22:50:54.755+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-02T22:50:54.756+01:00 - INFO - State: [object Object] wurde über Topic: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/response/state/device/livingRoomLamp veröffentlicht
+2022-03-02T22:50:54.757+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-02T22:50:54.757+01:00 - INFO - State: [object Object] wurde über Topic: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/response/state/device/heater veröffentlicht
+2022-03-02T22:50:54.758+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-02T22:50:54.758+01:00 - INFO - State: [object Object] wurde über Topic: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/response/state/device/gauge veröffentlicht
+2022-03-02T22:50:54.759+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-02T22:50:54.760+01:00 - INFO - State: [object Object] wurde über Topic: abd16b60-b8f0-4e1d-a8bf-470c0e1fd007/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht

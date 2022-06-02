@@ -1,0 +1,30 @@
+id: simpleOnOffDevice
+name: simpleOnOffDevice
+placeholders:
+  - id: topic
+    name: Topic
+    description: The Topic the device expects to receive Messages
+  - id: status_topic
+    name: Status Topic
+    description: The Topic the device publishes its Status to
+metadata:
+  expandable: false
+  iconColor: yellow
+actions:
+  - id: on_off_command
+    type: command
+    topic: '${topic}'
+    payloadInput: on_off
+listeners:
+  - id: get_on_off_state
+    type: command
+    topic: '${status_topic}'
+    payloadInput: on_off
+inputs:
+  - id: on_off
+    name: Device
+    metadata:
+      type: on-off
+    states:
+      - 'on'
+      - 'off'

@@ -1,0 +1,23 @@
+id: wakeOnLan
+name: Felix WakeonLan
+placeholders: []
+metadata:
+  iconColor: yellow
+actions:
+  - id: button
+    type: command
+    topic: 'home/-1/MainPC/WOL'
+    payloadInput: button
+listeners:
+  - id: button
+    type: command
+    topic: 'home/-1/MainPC/WOL'
+    payloadInput: button
+inputs:
+  - id: button
+    name: '# 1'
+    metadata:
+      type: on-off
+    states:
+      - on
+      - off

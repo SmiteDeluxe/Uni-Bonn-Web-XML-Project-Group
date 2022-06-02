@@ -1,0 +1,231 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/TemplateConfig",
+  "definitions": {
+    "TemplateConfig": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "ID of the template."
+        },
+        "name": {
+          "type": "string",
+          "description": "Human readable name to be displayed in the frontend"
+        },
+        "placeholders": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "ID of the placeholder"
+              },
+              "name": {
+                "type": "string",
+                "description": "Human readable name to be displayed in GUI clients"
+              },
+              "description": {
+                "type": "string",
+                "description": "Description of the placeholder for GUI clients, e.g. device id which ca be found in the webinterface."
+              }
+            },
+            "required": ["id", "name", "description"],
+            "additionalProperties": false
+          },
+          "description": "Information which placeholders are used by the template"
+        },
+        "metadata": {
+          "$ref": "#/definitions/MetadataRecord",
+          "description": "Frontend specific meta data"
+        },
+        "actions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/TemplateAction"
+          },
+          "description": "Actions define the actions a controller can apply to the state of a device"
+        },
+        "listeners": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/TemplateListener"
+          },
+          "description": "Listeners define which updates of device state can be processed"
+        },
+        "inputs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/TemplateInput"
+          },
+          "description": "Inputs define which modifiable state is displayed in the frontend."
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "placeholders",
+        "actions",
+        "listeners",
+        "inputs"
+      ],
+      "additionalProperties": false
+    },
+    "MetadataRecord": {
+      "type": "object"
+    },
+    "TemplateAction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "ID of the action"
+        },
+        "topic": {
+          "type": "string",
+          "description": "Topic the MQTT Message will be sent to"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["command", "object"],
+          "description": "Type of the action payload. Using `command`, a simple string as send as payload to the device, using `object`, an mapping of inputId and value will be send."
+        },
+        "payloadInput": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ],
+          "description": "Input ID(s) the action is applied to. This is used to format the payload of the MQTT message."
+        }
+      },
+      "required": ["id", "topic", "type", "payloadInput"],
+      "additionalProperties": false
+    },
+    "TemplateListener": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "ID of the action"
+        },
+        "topic": {
+          "type": "string",
+          "description": "Topic that will be listened to for state updates"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["command", "object"],
+          "description": "Type of the payload expected from the device. Using `command`, a simple string is expected as payload, using `object`  mapping of `inputId` and `value`."
+        },
+        "payloadInput": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ],
+          "description": "Input ID(s) state updates are beeing applied to. This is used to extract state information from the message payload."
+        }
+      },
+      "required": ["id", "topic", "type", "payloadInput"],
+      "additionalProperties": false
+    },
+    "TemplateInput": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "path": {
+              "type": "string"
+            },
+            "metadata": {
+              "$ref": "#/definitions/MetadataRecord"
+            },
+            "states": {
+              "type": "array",
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "value": {
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name", "value"],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            }
+          },
+          "required": ["id", "name", "states"],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "path": {
+              "type": "string"
+            },
+            "metadata": {
+              "$ref": "#/definitions/MetadataRecord"
+            },
+            "range": {
+              "type": "object",
+              "properties": {
+                "min": {
+                  "type": "number"
+                },
+                "max": {
+                  "type": "number"
+                },
+                "stepsize": {
+                  "type": "number"
+                }
+              },
+              "required": ["min", "max"],
+              "additionalProperties": false
+            }
+          },
+          "required": ["id", "name", "range"],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "TemplateOutput": {
+      "$ref": "#/definitions/TemplateInput"
+    }
+  }
+}

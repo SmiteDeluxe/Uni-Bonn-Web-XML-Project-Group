@@ -1,0 +1,96 @@
+groups:
+  - name: Wohnzimmer
+    icon: chair
+    type: room
+    id: livingRoom
+  - name: Küche
+    icon: kitchen
+    type: room
+    id: kitchen
+  - name: Rollos
+    icon: window
+    type: deviceGroup
+    id: 07fff3df-1105-45b8-8fcc-168b5f78cb61
+  - name: pinned
+    type: pinned
+    icon: dot
+    id: pinned
+  - name: Gartengeräte
+    icon: cloud
+    type: deviceGroup
+    id: dae1965b-4294-4f3d-a6ff-bcd26f8e7a4a
+  - name: Schlafzimmer
+    icon: bed
+    type: room
+    id: b1db9be2-9d5d-428d-8178-147164b554b0
+devices:
+  - name: shellyBulb
+    icon: lightbulb
+    groups:
+      - livingRoom
+    template: shellyBulb
+    placeholders:
+      deviceId: testMac
+    id: kitchenLamp
+  - name: AzEnvy
+    icon: speed
+    groups:
+      - livingRoom
+    template: azEnvy
+    placeholders:
+      test: empty
+    id: azEnvy
+  - name: ExampleGauge
+    icon: fireplace
+    groups:
+      - livingRoom
+    template: exampleGaugeOutput
+    placeholders:
+      status_topic: exampleGauge/state
+    id: exampleGaugeOutput
+  - name: ExampleHeater
+    icon: fireplace
+    groups:
+      - livingRoom
+    template: exampleHeater
+    placeholders:
+      status_topic: exampleHeater/state
+      set_power_topic: /exampleHeater/setPower
+      set_power+heater_topic: /exampleHeater/setAll
+    id: exampleHeater
+  - name: ""
+    icon: ""
+    groups:
+      - livingRoom
+    template: felixPowerStrip
+    placeholders:
+      prefix: prefix
+    id: powerStrip
+  - name: SimpleOnOffLamp
+    icon: light
+    groups:
+      - livingRoom
+    template: simpleOnOffDevice
+    placeholders:
+      topic: onOffLampId/setState
+      status_topic: onOffLampId/status
+    id: simpleOnOffDevice
+users:
+  - id: all
+    name: All
+    deviceRestrictions:
+      - e
+    groupRestrictions:
+      - e
+  - id: ***
+    name: ***
+    deviceRestrictions:
+      - 0fed2f39-1256-4781-a51e-3607286f0ab3
+    groupRestrictions:
+      - 2d047952-048b-4920-854c-7d9b4dd06d6a
+  - id: ***
+    name: ***
+    deviceRestrictions:
+      - livingRoomLamp
+    groupRestrictions:
+      - livingRoom

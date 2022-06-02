@@ -1,0 +1,58 @@
+id: shellyDuo
+name: Shelly Duo
+metadata:
+  expandable: false
+  iconColor: yellow
+placeholders:
+  - id: deviceId
+    name: Shelly Device id
+    description: Unique ID of the Shelly Duo Bulb, can be found in the bulbs webinterface.
+actions:
+  - id: command
+    type: command
+    topic: 'shellies/ShellyBulbDuo-${deviceId}/light/0/command'
+    payloadInput: turn # Will just send string as payload
+  - id: setState
+    type: object
+    topic: 'shellies/ShellyBulbDuo-${deviceId}/light/0/set'
+    payloadInput: # Will send `input id: value` mapping as payload
+      - brightness
+      - white
+      - temp
+      - transition
+listeners:
+  - id: getState
+    type: object
+    topic: 'shellies/ShellyBulbDuo-${deviceId}/light/0/status'
+    payloadInput:
+      - brightness
+      - white
+      - temp
+      - turn
+inputs:
+  - id: turn
+    name: Power
+    metadata:
+      type: on-off
+    states:
+      - on
+      - off
+  - id: brightness
+    name: Helligkeit
+    metadata:
+      type: brightnessSlider
+    range:
+      min: 0
+      max: 100
+  - id: white
+    name: Weißheit
+    metadata: {}
+    range:
+      min: 0
+      max: 100
+  - id: temp
+    name: Farbton
+    metadata: {}
+    range:
+      min: 2700
+      max: 6500

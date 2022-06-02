@@ -1,0 +1,6 @@
+datetime,deviceId,inputId,value
+2022-02-15T17:13:58.065+01:00,kitchenLamp,colorPicker,80
+2022-02-15T17:13:58.999+01:00,kitchenLamp,colorPicker,10
+2022-02-15T17:14:00.112+01:00,kitchenLamp,turn,off
+2022-02-15T17:14:01.416+01:00,kitchenLamp,turn,on
+2022-02-15T17:14:05.137+01:00,kitchenLamp,colorPicker,60

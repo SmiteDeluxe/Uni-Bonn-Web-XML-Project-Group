@@ -1,0 +1,36 @@
+id: azEnvy
+name: AzEnvy
+placeholders: []
+metadata:
+  iconColor: yellow
+actions: []
+listeners:
+  - id: button
+    type: object
+    topic: 'home/envy'
+    payloadInput:
+      - temp
+      - hum
+      - air
+inputs:
+  - id: temp
+    name: Temperatur
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 100
+  - id: hum
+    name: Hum
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 100
+  - id: air
+    name: Luft
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 1023

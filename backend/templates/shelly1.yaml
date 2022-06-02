@@ -1,0 +1,23 @@
+id: shelly1
+name: Shelly 1
+placeholders: []
+metadata:
+  iconColor: yellow
+actions:
+  - id: button
+    type: command
+    topic: 'shellies/shelly1-05901D/relay/0/command'
+    payloadInput: turn
+listeners:
+  - id: button
+    type: command
+    topic: 'shellies/shelly1-05901D/relay/0'
+    payloadInput: turn
+inputs:
+  - id: turn
+    name: Licht
+    metadata:
+      type: on-off
+    states:
+      - on
+      - off

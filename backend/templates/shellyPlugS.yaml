@@ -1,0 +1,51 @@
+id: shellyPlugS
+name: Shelly Plug S
+placeholders:
+  - id: deviceId
+    name: Shelly Device id
+    description: Unique ID of the Shelly Bulb, can be found in the bulbs webinterface.
+metadata:
+  iconColor: yellow
+actions: []
+listeners:
+  - id: button
+    type: object
+    topic: 'DVES_${deviceId}/tele/SENSOR'
+    payloadInput: # Will send `input id: value` mapping as payload
+      - Power
+      - Today
+      - Yesterday
+      - Total
+inputs:
+  - id: Power
+    name: Power
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 2000
+    path: 'ENERGY/Power'
+  - id: Today
+    name: Today
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 2000
+    path: 'ENERGY/Today'
+  - id: Yesterday
+    name: Yesterday
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 2000
+    path: 'ENERGY/Yesterday'
+  - id: Total
+    name: Total
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 2000
+    path: 'ENERGY/Total'

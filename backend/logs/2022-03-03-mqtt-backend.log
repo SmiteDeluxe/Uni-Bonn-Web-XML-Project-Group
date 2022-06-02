@@ -1,0 +1,68 @@
+2022-03-03T15:11:57.660+01:00 - INFO - ClientID: 0ac85ea6-1c60-445c-b743-7c5f2fa11b14 wurde veröffentlicht
+2022-03-03T15:11:57.894+01:00 - INFO - Alle Gruppen wurde über Topic: 0ac85ea6-1c60-445c-b743-7c5f2fa11b14/request/groups veröffentlicht
+2022-03-03T15:11:57.894+01:00 - TRACE - All configured users published to "0ac85ea6-1c60-445c-b743-7c5f2fa11b14/response/users"
+2022-03-03T15:11:57.895+01:00 - INFO - Alle Geräte wurden über Topic: 0ac85ea6-1c60-445c-b743-7c5f2fa11b14/request/devices veröffentlicht
+2022-03-03T15:12:00.152+01:00 - INFO - ClientID: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c wurde veröffentlicht
+2022-03-03T15:12:00.185+01:00 - INFO - Alle Gruppen wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groups veröffentlicht
+2022-03-03T15:12:00.188+01:00 - TRACE - All configured users published to "d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/users"
+2022-03-03T15:12:00.190+01:00 - INFO - Alle Geräte wurden über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/devices veröffentlicht
+2022-03-03T15:12:01.173+01:00 - INFO - Geräte  wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groupDevices/kitchen veröffentlicht
+2022-03-03T15:12:01.601+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-03T15:12:01.601+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/kitchenLamp veröffentlicht
+2022-03-03T15:12:01.609+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-03T15:12:01.609+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/livingRoomLamp veröffentlicht
+2022-03-03T15:12:01.612+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-03T15:12:01.612+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/heater veröffentlicht
+2022-03-03T15:12:01.625+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-03T15:12:01.625+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/gauge veröffentlicht
+2022-03-03T15:12:01.637+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:12:01.637+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-03T15:12:06.276+01:00 - TRACE - Published all devices to broadcast
+2022-03-03T15:12:06.276+01:00 - TRACE - Published status "200 - Device udpated" to topic "d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/statusResponse/updateDevice"
+2022-03-03T15:12:06.312+01:00 - INFO - Geräte  wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groupDevices/kitchen veröffentlicht
+2022-03-03T15:12:07.567+01:00 - INFO - Alle Gruppen wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groups veröffentlicht
+2022-03-03T15:12:07.568+01:00 - INFO - Alle Geräte wurden über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/devices veröffentlicht
+2022-03-03T15:12:07.781+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:12:07.782+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-03T15:12:08.436+01:00 - INFO - Geräte  wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groupDevices/kitchen veröffentlicht
+2022-03-03T15:12:08.750+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-03T15:12:08.750+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/kitchenLamp veröffentlicht
+2022-03-03T15:12:08.766+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-03T15:12:08.766+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/livingRoomLamp veröffentlicht
+2022-03-03T15:12:08.780+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-03T15:12:08.781+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/heater veröffentlicht
+2022-03-03T15:12:08.794+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-03T15:12:08.794+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/gauge veröffentlicht
+2022-03-03T15:12:08.805+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:12:08.806+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-03T15:12:14.966+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-03T15:12:15.494+01:00 - TRACE - Published status "200 - States " to topic "d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/stateResponse/state/device"
+2022-03-03T15:12:15.960+01:00 - TRACE - Published status "200 - States " to topic "d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/stateResponse/state/device"
+2022-03-03T15:12:16.040+01:00 - TRACE - Published status "200 - States " to topic "d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/stateResponse/state/device"
+2022-03-03T15:12:16.200+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-03T15:12:18.169+01:00 - INFO - State published to Device
+2022-03-03T15:12:18.671+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:12:20.389+01:00 - INFO - State published to Device
+2022-03-03T15:12:20.890+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:12:22.120+01:00 - INFO - State published to Device
+2022-03-03T15:12:22.621+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:12:36.695+01:00 - INFO - Alle Gruppen wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groups veröffentlicht
+2022-03-03T15:12:36.696+01:00 - INFO - Alle Geräte wurden über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/devices veröffentlicht
+2022-03-03T15:12:36.909+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:12:36.910+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-03T15:12:37.370+01:00 - INFO - Geräte  wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groupDevices/livingRoom veröffentlicht
+2022-03-03T15:13:31.440+01:00 - INFO - Alle Gruppen wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groups veröffentlicht
+2022-03-03T15:13:31.441+01:00 - INFO - Alle Geräte wurden über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/devices veröffentlicht
+2022-03-03T15:13:31.565+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:13:31.565+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-03T15:23:05.540+01:00 - INFO - Geräte  wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/request/groupDevices/kitchen veröffentlicht
+2022-03-03T15:23:05.858+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-03T15:23:05.858+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/kitchenLamp veröffentlicht
+2022-03-03T15:23:05.880+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-03T15:23:05.880+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/livingRoomLamp veröffentlicht
+2022-03-03T15:23:05.881+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-03T15:23:05.881+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/heater veröffentlicht
+2022-03-03T15:23:05.894+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-03T15:23:05.894+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/gauge veröffentlicht
+2022-03-03T15:23:05.903+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-03T15:23:05.903+01:00 - INFO - State: [object Object] wurde über Topic: d66f6a7d-0d69-4a79-bde6-efe3b0a1d59c/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht

@@ -1,0 +1,151 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/AutomationRead",
+  "definitions": {
+    "AutomationRead": {
+      "$ref": "#/definitions/AutomationConfig"
+    },
+    "AutomationConfig": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "active": {
+          "type": "boolean"
+        },
+        "startDate": {
+          "type": "string"
+        },
+        "endDate": {
+          "type": "string"
+        },
+        "actions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/AutomationAction"
+          }
+        }
+      },
+      "required": [
+        "name",
+        "id",
+        "actions"
+      ],
+      "additionalProperties": false
+    },
+    "AutomationAction": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/DeviceStateAction"
+        },
+        {
+          "$ref": "#/definitions/MqttMessageAction"
+        }
+      ]
+    },
+    "DeviceStateAction": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "deviceState"
+        },
+        "schedule": {
+          "type": "string"
+        },
+        "priority": {
+          "type": "number"
+        },
+        "states": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "deviceId": {
+                "type": "string"
+              },
+              "states": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "inputId": {
+                      "type": "string"
+                    },
+                    "value": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "inputId",
+                    "value"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "deviceId",
+              "states"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "schedule",
+        "states",
+        "type"
+      ],
+      "additionalProperties": false
+    },
+    "MqttMessageAction": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "mqttMessage"
+        },
+        "schedule": {
+          "type": "string"
+        },
+        "priority": {
+          "type": "number"
+        },
+        "topic": {
+          "type": "string"
+        },
+        "payload": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "payload",
+        "schedule",
+        "topic",
+        "type"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

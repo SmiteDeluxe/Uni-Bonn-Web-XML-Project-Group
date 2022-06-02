@@ -1,0 +1,459 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$ref": "#/definitions/ConfigMerged",
+  "definitions": {
+    "ConfigMerged": {
+      "type": "object",
+      "properties": {
+        "groups": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/GroupConfig"
+          }
+        },
+        "automations": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/AutomationConfig"
+          }
+        },
+        "users": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/UserConfig"
+          }
+        },
+        "devices": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Device"
+          }
+        }
+      },
+      "required": ["devices"],
+      "additionalProperties": false
+    },
+    "GroupConfig": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "icon": {
+          "type": "string"
+        }
+      },
+      "required": ["name", "id", "type", "icon"],
+      "additionalProperties": false
+    },
+    "AutomationConfig": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "active": {
+          "type": "boolean"
+        },
+        "startDate": {
+          "type": "string"
+        },
+        "endDate": {
+          "type": "string"
+        },
+        "actions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/AutomationAction"
+          }
+        }
+      },
+      "required": ["name", "id", "actions"],
+      "additionalProperties": false
+    },
+    "AutomationAction": {
+      "anyOf": [
+        {
+          "$ref": "#/definitions/DeviceStateAction"
+        },
+        {
+          "$ref": "#/definitions/MqttMessageAction"
+        }
+      ]
+    },
+    "DeviceStateAction": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "deviceState"
+        },
+        "schedule": {
+          "type": "string"
+        },
+        "priority": {
+          "type": "number"
+        },
+        "states": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "deviceId": {
+                "type": "string"
+              },
+              "states": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "inputId": {
+                      "type": "string"
+                    },
+                    "value": {
+                      "type": "string"
+                    }
+                  },
+                  "required": ["inputId", "value"],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": ["deviceId", "states"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": ["id", "name", "schedule", "states", "type"],
+      "additionalProperties": false
+    },
+    "MqttMessageAction": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "const": "mqttMessage"
+        },
+        "schedule": {
+          "type": "string"
+        },
+        "priority": {
+          "type": "number"
+        },
+        "topic": {
+          "type": "string"
+        },
+        "payload": {
+          "type": "string"
+        }
+      },
+      "required": ["id", "name", "payload", "schedule", "topic", "type"],
+      "additionalProperties": false
+    },
+    "UserConfig": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "deviceRestrictions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "groupRestrictions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["id", "name", "deviceRestrictions", "groupRestrictions"],
+      "additionalProperties": false
+    },
+    "Device": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "icon": {
+          "type": "string"
+        },
+        "groups": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "placeholders": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "metadata": {
+          "$ref": "#/definitions/MetadataRecord"
+        },
+        "template": {
+          "$ref": "#/definitions/TemplateConfig"
+        }
+      },
+      "required": ["groups", "icon", "id", "name", "placeholders", "template"],
+      "additionalProperties": false
+    },
+    "MetadataRecord": {
+      "type": "object"
+    },
+    "TemplateConfig": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "ID of the template."
+        },
+        "name": {
+          "type": "string",
+          "description": "Human readable name to be displayed in the frontend"
+        },
+        "placeholders": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string",
+                "description": "ID of the placeholder"
+              },
+              "name": {
+                "type": "string",
+                "description": "Human readable name to be displayed in GUI clients"
+              },
+              "description": {
+                "type": "string",
+                "description": "Description of the placeholder for GUI clients, e.g. device id which ca be found in the webinterface."
+              }
+            },
+            "required": ["id", "name", "description"],
+            "additionalProperties": false
+          },
+          "description": "Information which placeholders are used by the template"
+        },
+        "metadata": {
+          "$ref": "#/definitions/MetadataRecord",
+          "description": "Frontend specific meta data"
+        },
+        "actions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/TemplateAction"
+          },
+          "description": "Actions define the actions a controller can apply to the state of a device"
+        },
+        "listeners": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/TemplateListener"
+          },
+          "description": "Listeners define which updates of device state can be processed"
+        },
+        "inputs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/TemplateInput"
+          },
+          "description": "Inputs define which modifiable state is displayed in the frontend."
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "placeholders",
+        "actions",
+        "listeners",
+        "inputs"
+      ],
+      "additionalProperties": false
+    },
+    "TemplateAction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "ID of the action"
+        },
+        "topic": {
+          "type": "string",
+          "description": "Topic the MQTT Message will be sent to"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["command", "object"],
+          "description": "Type of the action payload. Using `command`, a simple string as send as payload to the device, using `object`, an mapping of inputId and value will be send."
+        },
+        "payloadInput": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ],
+          "description": "Input ID(s) the action is applied to. This is used to format the payload of the MQTT message."
+        }
+      },
+      "required": ["id", "topic", "type", "payloadInput"],
+      "additionalProperties": false
+    },
+    "TemplateListener": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "ID of the action"
+        },
+        "topic": {
+          "type": "string",
+          "description": "Topic that will be listened to for state updates"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["command", "object"],
+          "description": "Type of the payload expected from the device. Using `command`, a simple string is expected as payload, using `object`  mapping of `inputId` and `value`."
+        },
+        "payloadInput": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          ],
+          "description": "Input ID(s) state updates are beeing applied to. This is used to extract state information from the message payload."
+        }
+      },
+      "required": ["id", "topic", "type", "payloadInput"],
+      "additionalProperties": false
+    },
+    "TemplateInput": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "path": {
+              "type": "string"
+            },
+            "metadata": {
+              "$ref": "#/definitions/MetadataRecord"
+            },
+            "states": {
+              "type": "array",
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      },
+                      "value": {
+                        "type": "string"
+                      }
+                    },
+                    "required": ["name", "value"],
+                    "additionalProperties": false
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            }
+          },
+          "required": ["id", "name", "states"],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "path": {
+              "type": "string"
+            },
+            "metadata": {
+              "$ref": "#/definitions/MetadataRecord"
+            },
+            "range": {
+              "type": "object",
+              "properties": {
+                "min": {
+                  "type": "number"
+                },
+                "max": {
+                  "type": "number"
+                },
+                "stepsize": {
+                  "type": "number"
+                }
+              },
+              "required": ["min", "max"],
+              "additionalProperties": false
+            }
+          },
+          "required": ["id", "name", "range"],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "TemplateOutput": {
+      "$ref": "#/definitions/TemplateInput"
+    }
+  }
+}

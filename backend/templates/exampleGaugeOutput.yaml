@@ -1,0 +1,21 @@
+id: exampleGaugeOutput
+name: exampleGauge
+placeholders: []
+metadata:
+  expandable: true
+  iconColor: green
+actions: []
+listeners:
+  - id: getState
+    type: object
+    topic: 'hier/könnte/ihr/mqtt/stehen'
+    payloadInput:
+      - value
+inputs:
+  - id: gauge-output
+    name: GaugeOutput
+    metadata:
+      type: gauge
+    range:
+      min: 0
+      max: 30

@@ -1,0 +1,29 @@
+Hallo Felix,
+
+ich habe wie am Montag schon beschrieben an zwei Backend-Feature gearbeitet.
+
+Zum einen die Zustandsverwaltung und zum anderen das CRUD von Geräten und Gruppen. Beide Feature liegen auf dem state-management Branch
+Den Code hierzu findest du im mqtt-backend Ordner.
+
+Die Zustandsverwaltung ist noch nicht lauffähig und ich hoffe ich bekomme eine erste Version dieses Wochenende hin. Die Dateien für die Zustandsverwaltung sind: 
+- StateHandler => Kommunikation mit den Geräten über MQTT
+- StateController => Kommunikation mit dem Clienten(Frontend) 
+- StateService => Wird aktuell nur vom StateController aufgerufen und verwaltet die Logik(noch nicht)
+- StateCacheService => hier habe ich ein Singleton geschrieben, indem wir die Zustände speichern können.
+                       Wir hatten uns ja darüber unterhalten, dass wir es nicht in der DB speichern wollen, sondern im RAM
+
+Das CRUD von Geräten und Gruppen ist schon lauffähig, aber es gibt noch bisschen was zu tun. Teilweise habe ich TODOs in Kommentaren hinterlegt.
+- Device-/GroupController => Kommunikation mit dem Clienten(Frontend) 
+- DatabaseService => wird von den beiden Controllern aufgerufen und fragt die Adapter nach den Daten.
+                     Entweder die Daten müssen verarbeitet werden, ansonsten werden sie direkt an die Controller zurückgegeben
+- Adapter => Sind durch das Interface relativ einfach Austauschbar. 
+            Ich benutze den MongoAdapter um die Inhalte in einer MongoDB zu speichern. *** benutzt hier den YamlAdapter um die Inhalte in der Yaml-Datei zu speichern.
+             Es muss noch überprüft werden, ob das Speichern in der Yaml-Datei fehlerfrei geschehen kann.
+
+In der README.md findest du eine Anleitung wie du den Server usw. startest.
+Ich habe ein Shell-Script geschrieben, das paar simple Befehle absetzt um die API zu testen. Die Datei heißt requestScript.sh
+
+Desweiteren haben am Dienstag *** und ich nochmal über die Struktur der Geräte Templates nachgedacht.
+Ein Protokoll hierzu hat *** im main Branch unter Mockup/Brainstorming Templates.md gepusht.
+
+Wenn du Fragen hast kannst du mir gerne schreiben.

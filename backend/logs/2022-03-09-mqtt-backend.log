@@ -1,0 +1,85 @@
+2022-03-09T15:33:37.992+01:00 - INFO - ClientID: 66080405-a6a4-492e-86a4-56dc2322d8ac wurde veröffentlicht
+2022-03-09T15:33:38.093+01:00 - INFO - Alle Gruppen wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/request/groups veröffentlicht
+2022-03-09T15:33:38.094+01:00 - TRACE - All configured users published to "66080405-a6a4-492e-86a4-56dc2322d8ac/response/users"
+2022-03-09T15:33:38.099+01:00 - INFO - Alle Geräte wurden über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/request/devices veröffentlicht
+2022-03-09T15:33:48.479+01:00 - INFO - Geräte  wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/request/groupDevices/kitchen veröffentlicht
+2022-03-09T15:33:48.798+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-09T15:33:48.798+01:00 - INFO - State: [object Object] wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/response/state/device/kitchenLamp veröffentlicht
+2022-03-09T15:33:48.824+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-09T15:33:48.826+01:00 - INFO - State: [object Object] wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/response/state/device/livingRoomLamp veröffentlicht
+2022-03-09T15:33:48.837+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-09T15:33:48.837+01:00 - INFO - State: [object Object] wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/response/state/device/heater veröffentlicht
+2022-03-09T15:33:48.846+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-09T15:33:48.846+01:00 - INFO - State: [object Object] wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/response/state/device/gauge veröffentlicht
+2022-03-09T15:33:48.862+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-09T15:33:48.862+01:00 - INFO - State: [object Object] wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-09T15:33:49.860+01:00 - INFO - Alle Gruppen wurde über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/request/groups veröffentlicht
+2022-03-09T15:33:49.861+01:00 - INFO - Alle Geräte wurden über Topic: 66080405-a6a4-492e-86a4-56dc2322d8ac/request/devices veröffentlicht
+2022-03-09T15:34:17.272+01:00 - TRACE - Published status "200 - Group created" to topic "66080405-a6a4-492e-86a4-56dc2322d8ac/statusResponse/postGroup"
+2022-03-09T15:34:17.274+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:34:24.267+01:00 - TRACE - Published status "200 - Group created" to topic "66080405-a6a4-492e-86a4-56dc2322d8ac/statusResponse/postGroup"
+2022-03-09T15:34:24.268+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:34:30.656+01:00 - TRACE - Published status "200 - Group created" to topic "66080405-a6a4-492e-86a4-56dc2322d8ac/statusResponse/postGroup"
+2022-03-09T15:34:30.657+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:34:41.317+01:00 - TRACE - Published status "200 - Group updated" to topic "66080405-a6a4-492e-86a4-56dc2322d8ac/statusResponse/updateGroup"
+2022-03-09T15:34:41.318+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:34:45.574+01:00 - TRACE - Published status "200 - Group deleted" to topic "66080405-a6a4-492e-86a4-56dc2322d8ac/statusResponse/deleteGroup"
+2022-03-09T15:34:45.575+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:37:29.020+01:00 - INFO - ClientID: 9973c79e-7c61-4677-ae68-cb322b99d99f wurde veröffentlicht
+2022-03-09T15:37:29.090+01:00 - INFO - Alle Gruppen wurde über Topic: 9973c79e-7c61-4677-ae68-cb322b99d99f/request/groups veröffentlicht
+2022-03-09T15:37:29.095+01:00 - TRACE - All configured users published to "9973c79e-7c61-4677-ae68-cb322b99d99f/response/users"
+2022-03-09T15:37:29.097+01:00 - INFO - Alle Geräte wurden über Topic: 9973c79e-7c61-4677-ae68-cb322b99d99f/request/devices veröffentlicht
+2022-03-09T15:37:39.638+01:00 - TRACE - Published status "200 - Group created" to topic "9973c79e-7c61-4677-ae68-cb322b99d99f/statusResponse/postGroup"
+2022-03-09T15:37:39.639+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:37:43.646+01:00 - INFO - ClientID: d7f5f411-af1b-47f2-aacb-216152a35d1e wurde veröffentlicht
+2022-03-09T15:37:43.675+01:00 - INFO - Alle Gruppen wurde über Topic: d7f5f411-af1b-47f2-aacb-216152a35d1e/request/groups veröffentlicht
+2022-03-09T15:37:43.676+01:00 - TRACE - All configured users published to "d7f5f411-af1b-47f2-aacb-216152a35d1e/response/users"
+2022-03-09T15:37:43.676+01:00 - INFO - Alle Geräte wurden über Topic: d7f5f411-af1b-47f2-aacb-216152a35d1e/request/devices veröffentlicht
+2022-03-09T15:38:06.236+01:00 - TRACE - Published status "200 - Group created" to topic "d7f5f411-af1b-47f2-aacb-216152a35d1e/statusResponse/postGroup"
+2022-03-09T15:38:06.236+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:39:36.735+01:00 - TRACE - Published status "200 - Group updated" to topic "d7f5f411-af1b-47f2-aacb-216152a35d1e/statusResponse/updateGroup"
+2022-03-09T15:39:36.737+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:39:39.303+01:00 - TRACE - Published status "200 - Group deleted" to topic "d7f5f411-af1b-47f2-aacb-216152a35d1e/statusResponse/deleteGroup"
+2022-03-09T15:39:39.307+01:00 - TRACE - Published all groups to broadcast
+2022-03-09T15:40:27.071+01:00 - INFO - ClientID: 116429e7-9819-4ae3-85dc-7a19cf47e297 wurde veröffentlicht
+2022-03-09T15:40:27.096+01:00 - TRACE - All configured users published to "116429e7-9819-4ae3-85dc-7a19cf47e297/response/users"
+2022-03-09T15:40:27.098+01:00 - INFO - Alle Gruppen wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/request/groups veröffentlicht
+2022-03-09T15:40:27.188+01:00 - INFO - Geräte  wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/request/groupDevices/kitchen veröffentlicht
+2022-03-09T15:40:27.614+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-09T15:40:27.614+01:00 - INFO - State: [object Object] wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/response/state/device/kitchenLamp veröffentlicht
+2022-03-09T15:40:27.627+01:00 - INFO - State: [object Object] wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/response/state/device/livingRoomLamp veröffentlicht
+2022-03-09T15:40:27.627+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-09T15:40:27.638+01:00 - INFO - State: [object Object] wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/response/state/device/heater veröffentlicht
+2022-03-09T15:40:27.638+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-09T15:40:27.639+01:00 - INFO - State: [object Object] wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/response/state/device/gauge veröffentlicht
+2022-03-09T15:40:27.637+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-09T15:40:27.650+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-09T15:40:27.651+01:00 - INFO - State: [object Object] wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-09T15:40:29.110+01:00 - INFO - Alle Gruppen wurde über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/request/groups veröffentlicht
+2022-03-09T15:40:29.111+01:00 - INFO - Alle Geräte wurden über Topic: 116429e7-9819-4ae3-85dc-7a19cf47e297/request/devices veröffentlicht
+2022-03-09T15:40:29.967+01:00 - INFO - ClientID: bc3133a6-f51e-4b1c-a8f7-0d268429b534 wurde veröffentlicht
+2022-03-09T15:40:29.995+01:00 - INFO - Alle Gruppen wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/request/groups veröffentlicht
+2022-03-09T15:40:29.996+01:00 - TRACE - All configured users published to "bc3133a6-f51e-4b1c-a8f7-0d268429b534/response/users"
+2022-03-09T15:40:30.000+01:00 - INFO - Alle Geräte wurden über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/request/devices veröffentlicht
+2022-03-09T15:40:30.648+01:00 - INFO - Geräte  wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/request/groupDevices/kitchen veröffentlicht
+2022-03-09T15:40:30.997+01:00 - TRACE - Device with id "kitchenLamp"" is offline
+2022-03-09T15:40:30.997+01:00 - INFO - State: [object Object] wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/response/state/device/kitchenLamp veröffentlicht
+2022-03-09T15:40:31.015+01:00 - TRACE - Device with id "livingRoomLamp"" is offline
+2022-03-09T15:40:31.015+01:00 - INFO - State: [object Object] wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/response/state/device/livingRoomLamp veröffentlicht
+2022-03-09T15:40:31.042+01:00 - TRACE - Device with id "heater"" is offline
+2022-03-09T15:40:31.042+01:00 - INFO - State: [object Object] wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/response/state/device/heater veröffentlicht
+2022-03-09T15:40:31.055+01:00 - TRACE - Device with id "gauge"" is offline
+2022-03-09T15:40:31.056+01:00 - INFO - State: [object Object] wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/response/state/device/gauge veröffentlicht
+2022-03-09T15:40:31.203+01:00 - TRACE - Device with id "c4c6080e-df86-463c-943d-c8ee3d689e69"" is offline
+2022-03-09T15:40:31.204+01:00 - INFO - State: [object Object] wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/response/state/device/c4c6080e-df86-463c-943d-c8ee3d689e69 veröffentlicht
+2022-03-09T15:40:35.848+01:00 - TRACE - Published all devices to broadcast
+2022-03-09T15:40:35.848+01:00 - TRACE - Published status "200 - Device udpated" to topic "bc3133a6-f51e-4b1c-a8f7-0d268429b534/statusResponse/updateDevice"
+2022-03-09T15:40:35.957+01:00 - INFO - Geräte  wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/request/groupDevices/kitchen veröffentlicht
+2022-03-09T15:40:40.518+01:00 - TRACE - Published status "200 - Device deleted" to topic "bc3133a6-f51e-4b1c-a8f7-0d268429b534/statusResponse/deleteDevice"
+2022-03-09T15:40:40.519+01:00 - TRACE - Published all devices to broadcast
+2022-03-09T15:40:40.627+01:00 - INFO - Geräte  wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/request/groupDevices/kitchen veröffentlicht
+2022-03-09T15:40:47.594+01:00 - TRACE - Published all devices to broadcast
+2022-03-09T15:40:47.595+01:00 - TRACE - Published status "200 - Device created!" to topic "bc3133a6-f51e-4b1c-a8f7-0d268429b534/statusResponse/postDevice"
+2022-03-09T15:40:47.611+01:00 - INFO - Geräte  wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/request/groupDevices/kitchen veröffentlicht
+2022-03-09T15:40:47.925+01:00 - TRACE - Device with id "ebce6099-e8cd-45f6-a9c3-2da734ff537a"" is offline
+2022-03-09T15:40:47.926+01:00 - INFO - State: [object Object] wurde über Topic: bc3133a6-f51e-4b1c-a8f7-0d268429b534/response/state/device/ebce6099-e8cd-45f6-a9c3-2da734ff537a veröffentlicht

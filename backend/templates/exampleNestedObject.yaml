@@ -1,0 +1,88 @@
+id: exampleObj
+name: Nested Object
+placeholders:
+  - id: deviceId
+    name: Shelly Device id
+    description: Unique ID of the Shelly Bulb, can be found in the bulbs webinterface.
+metadata:
+  expandable: false
+  iconColor: yellow
+actions:
+  - id: command
+    type: command
+    topic: 'shellies/shellycolorbulb-${deviceId}/color/0/command'
+    payloadInput: turn # Will just send string as payload
+  - id: setState
+    type: object
+    topic: 'shellies/shellycolorbulb-${deviceId}/color/0/set'
+    payloadInput: # Will send `input id: value` mapping as payload
+      - red
+      - green
+      - blue
+      - gain
+      - mode
+listeners:
+  - id: getState
+    type: object
+    topic: 'shellies/shellycolorbulb-${deviceId}/color/0/status'
+    payloadInput:
+      - red
+      - blue
+      - green
+      - gain
+      - mode
+  - id: command
+    type: command
+    topic: 'shellies/shellycolorbulb-${deviceId}/color/0'
+    payloadInput: turn
+inputs:
+  - id: turn
+    name: Licht
+    metadata:
+      type: on-off
+    states:
+      - on
+      - off
+  - id: red
+    metadata:
+      type: colorPicker
+      color: red
+    name: FarbeRot
+    range:
+      min: 0
+      max: 255
+    path: 'example/example/red'
+  - id: green
+    metadata:
+      type: colorPicker
+      color: green
+    name: FarbeGrün
+    range:
+      min: 0
+      max: 255
+    path: 'example/example/green'
+  - id: blue
+    metadata:
+      type: colorPicker
+      color: blue
+    name: FarbeBlue
+    range:
+      min: 0
+      max: 255
+    path: 'example/example/blue'
+  - id: gain
+    name: Farbe
+    metadata:
+      type: brightnessSlider
+    range:
+      min: 0
+      max: 100
+    path: 'example/example/gain'
+  - id: mode
+    name: DontRender
+    metadata:
+      type: dontrender
+    range:
+      min: 0
+      max: 100
+    path: 'example/example/mode'

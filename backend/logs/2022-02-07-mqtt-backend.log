@@ -1,0 +1,694 @@
+2022-02-07T17:29:24.141+01:00 - INFO - ClientID: 63de95ed-4983-4559-b99c-7ef882122fb5 wurde veröffentlicht
+2022-02-07T17:29:24.142+01:00 - INFO - Geräte  wurde über Topic: 55f4b58d-d294-4244-80fe-98f22bca97e8/request/groupDevices/kitchen veröffentlicht
+2022-02-07T17:30:15.029+01:00 - INFO - ClientID: 0b0e0962-8362-45a2-b272-8e2989e274bf wurde veröffentlicht
+2022-02-07T17:30:15.061+01:00 - TRACE - All configured users published to "0b0e0962-8362-45a2-b272-8e2989e274bf/response/users"
+2022-02-07T17:30:15.061+01:00 - INFO - Alle Gruppen wurde über Topic: 0b0e0962-8362-45a2-b272-8e2989e274bf/request/groups veröffentlicht
+2022-02-07T17:30:15.148+01:00 - INFO - Geräte  wurde über Topic: 0b0e0962-8362-45a2-b272-8e2989e274bf/request/groupDevices/kitchen veröffentlicht
+2022-02-07T17:30:17.041+01:00 - INFO - Alle Gruppen wurde über Topic: 0b0e0962-8362-45a2-b272-8e2989e274bf/request/groups veröffentlicht
+2022-02-07T17:30:17.042+01:00 - INFO - Alle Geräte wurden über Topic: 0b0e0962-8362-45a2-b272-8e2989e274bf/request/devices veröffentlicht
+2022-02-07T17:30:22.605+01:00 - INFO - Geräte  wurde über Topic: 0b0e0962-8362-45a2-b272-8e2989e274bf/request/groupDevices/kitchen veröffentlicht
+2022-02-07T17:30:26.677+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:30:26.678+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T17:30:26.680+01:00 - INFO - State published to Device
+2022-02-07T17:30:48.707+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:30:48.707+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:30:48.708+01:00 - INFO - State published to Device
+2022-02-07T17:31:04.219+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:31:04.220+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:31:04.220+01:00 - INFO - State published to Device
+2022-02-07T17:31:09.984+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:31:09.985+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":197},{"inputId":"green","value":155},{"inputId":"blue","value":155},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:31:09.985+01:00 - INFO - State published to Device
+2022-02-07T17:34:13.881+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:34:13.881+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":197},{"inputId":"green","value":155},{"inputId":"blue","value":155},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T17:34:13.882+01:00 - INFO - State published to Device
+2022-02-07T17:34:15.981+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:34:15.981+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":197},{"inputId":"green","value":155},{"inputId":"blue","value":155},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:34:15.981+01:00 - INFO - State published to Device
+2022-02-07T17:34:18.131+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":197},{"inputId":"green","value":155},{"inputId":"blue","value":155},{"inputId":"colorPicker","value":"100"}]}" to broadcast
+2022-02-07T17:34:18.131+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:34:18.132+01:00 - INFO - State published to Device
+2022-02-07T17:34:19.651+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:34:19.652+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":197},{"inputId":"green","value":155},{"inputId":"blue","value":155},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:34:19.652+01:00 - INFO - State published to Device
+2022-02-07T17:34:21.282+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:34:21.283+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":197},{"inputId":"green","value":155},{"inputId":"blue","value":155},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:34:21.283+01:00 - INFO - State published to Device
+2022-02-07T17:34:23.992+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:34:23.992+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":127},{"inputId":"green","value":36},{"inputId":"blue","value":36},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:34:23.993+01:00 - INFO - State published to Device
+2022-02-07T17:34:49.013+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:34:49.014+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:34:49.014+01:00 - INFO - State published to Device
+2022-02-07T17:35:22.055+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:35:22.056+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:35:22.056+01:00 - INFO - State published to Device
+2022-02-07T17:35:41.106+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:35:41.106+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T17:35:41.107+01:00 - INFO - State published to Device
+2022-02-07T17:36:01.004+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:36:01.004+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":0},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T17:36:01.005+01:00 - INFO - State published to Device
+2022-02-07T17:36:04.236+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:36:04.236+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T17:36:04.236+01:00 - INFO - State published to Device
+2022-02-07T17:37:45.218+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:37:45.219+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:37:45.219+01:00 - INFO - State published to Device
+2022-02-07T17:37:46.030+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:37:46.030+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:37:46.030+01:00 - INFO - State published to Device
+2022-02-07T17:37:59.420+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:37:59.420+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:37:59.420+01:00 - INFO - State published to Device
+2022-02-07T17:38:05.036+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:05.036+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"30"}]}" to broadcast
+2022-02-07T17:38:05.036+01:00 - INFO - State published to Device
+2022-02-07T17:38:06.339+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:06.339+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:38:06.339+01:00 - INFO - State published to Device
+2022-02-07T17:38:07.528+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:38:07.528+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:07.529+01:00 - INFO - State published to Device
+2022-02-07T17:38:08.789+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:08.790+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:38:08.790+01:00 - INFO - State published to Device
+2022-02-07T17:38:10.596+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:10.596+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:38:10.596+01:00 - INFO - State published to Device
+2022-02-07T17:38:12.424+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:12.425+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:38:12.425+01:00 - INFO - State published to Device
+2022-02-07T17:38:14.474+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:14.474+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T17:38:14.474+01:00 - INFO - State published to Device
+2022-02-07T17:38:17.179+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:17.180+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:38:17.180+01:00 - INFO - State published to Device
+2022-02-07T17:38:21.666+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:21.666+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:38:21.666+01:00 - INFO - State published to Device
+2022-02-07T17:38:22.660+01:00 - TRACE - Published status "200 - State posted!" to topic "0b0e0962-8362-45a2-b272-8e2989e274bf/stateResponse/state/device"
+2022-02-07T17:38:22.660+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:38:22.660+01:00 - INFO - State published to Device
+2022-02-07T17:38:24.437+01:00 - INFO - ClientID: 98710282-e657-48c6-8a3d-a28b38427684 wurde veröffentlicht
+2022-02-07T17:38:24.490+01:00 - TRACE - All configured users published to "98710282-e657-48c6-8a3d-a28b38427684/response/users"
+2022-02-07T17:38:24.491+01:00 - INFO - Alle Gruppen wurde über Topic: 98710282-e657-48c6-8a3d-a28b38427684/request/groups veröffentlicht
+2022-02-07T17:38:24.563+01:00 - INFO - Geräte  wurde über Topic: 98710282-e657-48c6-8a3d-a28b38427684/request/groupDevices/kitchen veröffentlicht
+2022-02-07T17:38:26.499+01:00 - TRACE - Published status "200 - State posted!" to topic "98710282-e657-48c6-8a3d-a28b38427684/stateResponse/state/device"
+2022-02-07T17:38:26.499+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-07T17:38:26.499+01:00 - INFO - State published to Device
+2022-02-07T17:38:28.706+01:00 - TRACE - Published status "200 - State posted!" to topic "98710282-e657-48c6-8a3d-a28b38427684/stateResponse/state/device"
+2022-02-07T17:38:28.707+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-07T17:38:28.708+01:00 - INFO - State published to Device
+2022-02-07T17:38:30.038+01:00 - TRACE - Published status "200 - State posted!" to topic "98710282-e657-48c6-8a3d-a28b38427684/stateResponse/state/device"
+2022-02-07T17:38:30.038+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-07T17:38:30.039+01:00 - INFO - State published to Device
+2022-02-07T17:38:30.883+01:00 - TRACE - Published status "200 - State posted!" to topic "98710282-e657-48c6-8a3d-a28b38427684/stateResponse/state/device"
+2022-02-07T17:38:30.884+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-07T17:38:30.884+01:00 - INFO - State published to Device
+2022-02-07T17:38:31.465+01:00 - TRACE - Published status "200 - State posted!" to topic "98710282-e657-48c6-8a3d-a28b38427684/stateResponse/state/device"
+2022-02-07T17:38:31.465+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:31.465+01:00 - INFO - State published to Device
+2022-02-07T17:38:38.721+01:00 - INFO - ClientID: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6 wurde veröffentlicht
+2022-02-07T17:38:38.748+01:00 - TRACE - All configured users published to "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/response/users"
+2022-02-07T17:38:38.749+01:00 - INFO - Alle Gruppen wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groups veröffentlicht
+2022-02-07T17:38:38.835+01:00 - INFO - Geräte  wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groupDevices/kitchen veröffentlicht
+2022-02-07T17:38:41.312+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:41.312+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:41.313+01:00 - INFO - State published to Device
+2022-02-07T17:38:43.875+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:43.876+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:43.876+01:00 - INFO - State published to Device
+2022-02-07T17:38:44.924+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:44.924+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:44.925+01:00 - INFO - State published to Device
+2022-02-07T17:38:45.877+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:45.877+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:45.877+01:00 - INFO - State published to Device
+2022-02-07T17:38:46.871+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:46.871+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:46.871+01:00 - INFO - State published to Device
+2022-02-07T17:38:49.518+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:49.518+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:49.518+01:00 - INFO - State published to Device
+2022-02-07T17:38:50.424+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:50.424+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T17:38:50.425+01:00 - INFO - State published to Device
+2022-02-07T17:38:58.702+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:38:58.703+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"30"}]}" to broadcast
+2022-02-07T17:38:58.703+01:00 - INFO - State published to Device
+2022-02-07T17:39:00.152+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:39:00.152+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-07T17:39:00.152+01:00 - INFO - State published to Device
+2022-02-07T17:39:01.272+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:39:01.273+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-07T17:39:01.273+01:00 - INFO - State published to Device
+2022-02-07T17:39:02.708+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:39:02.708+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:39:02.708+01:00 - INFO - State published to Device
+2022-02-07T17:39:04.534+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:39:04.534+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:39:04.535+01:00 - INFO - State published to Device
+2022-02-07T17:39:23.229+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:39:23.229+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:39:23.229+01:00 - INFO - State published to Device
+2022-02-07T17:40:09.332+01:00 - INFO - Alle Gruppen wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groups veröffentlicht
+2022-02-07T17:40:09.333+01:00 - INFO - Alle Geräte wurden über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/devices veröffentlicht
+2022-02-07T17:40:12.401+01:00 - INFO - Alle Gruppen wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groups veröffentlicht
+2022-02-07T17:40:12.402+01:00 - INFO - Alle Geräte wurden über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/devices veröffentlicht
+2022-02-07T17:40:18.680+01:00 - INFO - Alle Gruppen wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groups veröffentlicht
+2022-02-07T17:40:18.682+01:00 - INFO - Alle Geräte wurden über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/devices veröffentlicht
+2022-02-07T17:40:19.610+01:00 - TRACE - All configured users published to "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/response/automations"
+2022-02-07T17:40:21.465+01:00 - INFO - Alle Geräte wurden über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/devices veröffentlicht
+2022-02-07T17:40:51.152+01:00 - TRACE - All configured users published to "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/response/automations"
+2022-02-07T17:40:52.305+01:00 - INFO - Alle Gruppen wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groups veröffentlicht
+2022-02-07T17:40:52.306+01:00 - INFO - Alle Geräte wurden über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/devices veröffentlicht
+2022-02-07T17:48:19.962+01:00 - INFO - Alle Gruppen wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groups veröffentlicht
+2022-02-07T17:48:19.977+01:00 - INFO - Alle Geräte wurden über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/devices veröffentlicht
+2022-02-07T17:48:24.646+01:00 - INFO - Geräte  wurde über Topic: c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/request/groupDevices/kitchen veröffentlicht
+2022-02-07T17:48:26.390+01:00 - TRACE - Published status "200 - State posted!" to topic "c28abe7e-cf7d-4f9d-8891-794a2db0dcf6/stateResponse/state/device"
+2022-02-07T17:48:26.390+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:48:26.391+01:00 - INFO - State published to Device
+2022-02-07T17:52:37.468+01:00 - INFO - ClientID: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56 wurde veröffentlicht
+2022-02-07T17:52:37.486+01:00 - TRACE - All configured users published to "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/users"
+2022-02-07T17:52:37.488+01:00 - INFO - Alle Gruppen wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/request/groups veröffentlicht
+2022-02-07T17:52:37.580+01:00 - INFO - Geräte  wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/request/groupDevices/kitchen veröffentlicht
+2022-02-07T17:52:37.760+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T17:52:37.760+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T17:52:37.761+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T17:52:37.762+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/state/device/heater veröffentlicht
+2022-02-07T17:52:37.763+01:00 - INFO - State:  wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/state/device/gauge veröffentlicht
+2022-02-07T17:52:37.763+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T17:52:37.764+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T17:52:44.805+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:52:44.805+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:52:44.806+01:00 - INFO - State published to Device
+2022-02-07T17:52:46.506+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:52:46.506+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:52:46.506+01:00 - INFO - State published to Device
+2022-02-07T17:52:47.550+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:52:47.550+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:52:47.550+01:00 - INFO - State published to Device
+2022-02-07T17:52:48.414+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:52:48.414+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:52:48.414+01:00 - INFO - State published to Device
+2022-02-07T17:52:49.358+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:52:49.358+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T17:52:49.359+01:00 - INFO - State published to Device
+2022-02-07T17:52:51.426+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:52:51.426+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:52:51.426+01:00 - INFO - State published to Device
+2022-02-07T17:52:52.886+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:52:52.887+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:52:52.887+01:00 - INFO - State published to Device
+2022-02-07T17:53:12.496+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:53:12.496+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:53:12.497+01:00 - INFO - State published to Device
+2022-02-07T17:53:13.757+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:53:13.758+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:53:13.758+01:00 - INFO - State published to Device
+2022-02-07T17:57:32.064+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:57:32.065+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:57:32.065+01:00 - INFO - State published to Device
+2022-02-07T17:57:35.177+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:57:35.177+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"heater","value":null}]}" to broadcast
+2022-02-07T17:57:36.999+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:57:36.999+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:57:37.000+01:00 - INFO - State published to Device
+2022-02-07T17:57:39.547+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:57:39.548+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:57:39.548+01:00 - INFO - State published to Device
+2022-02-07T17:58:32.416+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:58:32.416+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:58:32.417+01:00 - INFO - State published to Device
+2022-02-07T17:58:34.000+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:58:34.000+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T17:58:34.000+01:00 - INFO - State published to Device
+2022-02-07T17:58:35.701+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:58:35.701+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"90"}]}" to broadcast
+2022-02-07T17:58:35.701+01:00 - INFO - State published to Device
+2022-02-07T17:58:36.539+01:00 - TRACE - Published status "200 - State posted!" to topic "8d66797b-eeb1-4e56-b42d-a4dbd77f9c56/stateResponse/state/device"
+2022-02-07T17:58:36.541+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":174},{"inputId":"green","value":66},{"inputId":"blue","value":66},{"inputId":"colorPicker","value":"30"}]}" to broadcast
+2022-02-07T17:58:36.541+01:00 - INFO - State published to Device
+2022-02-07T18:00:34.385+01:00 - INFO - ClientID: 2c70f25e-9acf-463d-8943-478b3fae288b wurde veröffentlicht
+2022-02-07T18:00:34.416+01:00 - TRACE - All configured users published to "2c70f25e-9acf-463d-8943-478b3fae288b/response/users"
+2022-02-07T18:00:34.418+01:00 - INFO - Alle Gruppen wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/request/groups veröffentlicht
+2022-02-07T18:00:34.503+01:00 - INFO - Geräte  wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:00:34.698+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T18:00:34.700+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T18:00:34.700+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T18:00:34.701+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/response/state/device/heater veröffentlicht
+2022-02-07T18:00:34.701+01:00 - INFO - State:  wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/response/state/device/gauge veröffentlicht
+2022-02-07T18:00:34.701+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T18:00:34.702+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 2c70f25e-9acf-463d-8943-478b3fae288b/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T18:00:36.209+01:00 - INFO - ClientID: 0a8f51e3-954e-4695-81d2-3a9c960e416e wurde veröffentlicht
+2022-02-07T18:00:36.230+01:00 - TRACE - All configured users published to "0a8f51e3-954e-4695-81d2-3a9c960e416e/response/users"
+2022-02-07T18:00:36.235+01:00 - INFO - Alle Gruppen wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/request/groups veröffentlicht
+2022-02-07T18:00:36.320+01:00 - INFO - Geräte  wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:00:36.474+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T18:00:36.474+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T18:00:36.475+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T18:00:36.476+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/response/state/device/heater veröffentlicht
+2022-02-07T18:00:36.479+01:00 - INFO - State:  wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/response/state/device/gauge veröffentlicht
+2022-02-07T18:00:36.480+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T18:00:36.481+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 0a8f51e3-954e-4695-81d2-3a9c960e416e/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T18:04:11.880+01:00 - INFO - ClientID: b9abee1f-6990-4eb2-8b44-28b7afdb7dae wurde veröffentlicht
+2022-02-07T18:04:11.898+01:00 - TRACE - All configured users published to "b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/users"
+2022-02-07T18:04:11.899+01:00 - INFO - Alle Gruppen wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/request/groups veröffentlicht
+2022-02-07T18:04:11.992+01:00 - INFO - Geräte  wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:04:12.130+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T18:04:12.132+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T18:04:12.132+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T18:04:12.133+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/state/device/heater veröffentlicht
+2022-02-07T18:04:12.133+01:00 - INFO - State:  wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/state/device/gauge veröffentlicht
+2022-02-07T18:04:12.134+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T18:04:12.135+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: b9abee1f-6990-4eb2-8b44-28b7afdb7dae/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T18:04:13.459+01:00 - TRACE - Published status "200 - State posted!" to topic "b9abee1f-6990-4eb2-8b44-28b7afdb7dae/stateResponse/state/device"
+2022-02-07T18:04:13.462+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:04:13.462+01:00 - INFO - State published to Device
+2022-02-07T18:04:15.792+01:00 - TRACE - Published status "200 - State posted!" to topic "b9abee1f-6990-4eb2-8b44-28b7afdb7dae/stateResponse/state/device"
+2022-02-07T18:04:15.792+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:04:15.793+01:00 - INFO - State published to Device
+2022-02-07T18:04:18.256+01:00 - TRACE - Published status "200 - State posted!" to topic "b9abee1f-6990-4eb2-8b44-28b7afdb7dae/stateResponse/state/device"
+2022-02-07T18:04:18.256+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:04:18.256+01:00 - INFO - State published to Device
+2022-02-07T18:04:19.185+01:00 - TRACE - Published status "200 - State posted!" to topic "b9abee1f-6990-4eb2-8b44-28b7afdb7dae/stateResponse/state/device"
+2022-02-07T18:04:19.185+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:04:19.186+01:00 - INFO - State published to Device
+2022-02-07T18:04:50.606+01:00 - INFO - ClientID: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d wurde veröffentlicht
+2022-02-07T18:04:50.643+01:00 - TRACE - All configured users published to "2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/users"
+2022-02-07T18:04:50.644+01:00 - INFO - Alle Gruppen wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/request/groups veröffentlicht
+2022-02-07T18:04:50.721+01:00 - INFO - Geräte  wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:04:50.910+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T18:04:50.912+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T18:04:50.925+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T18:04:50.930+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/state/device/heater veröffentlicht
+2022-02-07T18:04:50.931+01:00 - INFO - State:  wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/state/device/gauge veröffentlicht
+2022-02-07T18:04:50.932+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T18:04:50.933+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T18:04:52.221+01:00 - TRACE - Published status "200 - State posted!" to topic "2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/stateResponse/state/device"
+2022-02-07T18:04:52.222+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:04:52.222+01:00 - INFO - State published to Device
+2022-02-07T18:04:55.138+01:00 - TRACE - Published status "200 - State posted!" to topic "2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/stateResponse/state/device"
+2022-02-07T18:04:55.138+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:04:55.138+01:00 - INFO - State published to Device
+2022-02-07T18:06:21.229+01:00 - TRACE - Published status "200 - State posted!" to topic "2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/stateResponse/state/device"
+2022-02-07T18:06:21.230+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:06:21.230+01:00 - INFO - State published to Device
+2022-02-07T18:06:31.760+01:00 - TRACE - Published status "200 - State posted!" to topic "2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/stateResponse/state/device"
+2022-02-07T18:06:31.760+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:06:31.761+01:00 - INFO - State published to Device
+2022-02-07T18:06:34.216+01:00 - TRACE - Published status "200 - State posted!" to topic "2b1b5a22-7949-49e8-b1bb-63a9c7dae07d/stateResponse/state/device"
+2022-02-07T18:06:34.217+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:06:34.217+01:00 - INFO - State published to Device
+2022-02-07T18:06:39.495+01:00 - INFO - ClientID: faeb88a0-7a9e-44ee-b918-67097ad15312 wurde veröffentlicht
+2022-02-07T18:06:39.560+01:00 - TRACE - All configured users published to "faeb88a0-7a9e-44ee-b918-67097ad15312/response/users"
+2022-02-07T18:06:39.561+01:00 - INFO - Alle Gruppen wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groups veröffentlicht
+2022-02-07T18:06:39.647+01:00 - INFO - Geräte  wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:06:39.826+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T18:06:39.827+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T18:06:39.827+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T18:06:39.828+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/heater veröffentlicht
+2022-02-07T18:06:39.828+01:00 - INFO - State:  wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/gauge veröffentlicht
+2022-02-07T18:06:39.833+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T18:06:39.833+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T18:06:41.444+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:06:41.445+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:06:41.445+01:00 - INFO - State published to Device
+2022-02-07T18:07:06.906+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:06.907+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:07:06.907+01:00 - INFO - State published to Device
+2022-02-07T18:07:07.923+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:07.923+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:07:07.924+01:00 - INFO - State published to Device
+2022-02-07T18:07:08.883+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:08.883+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:07:08.883+01:00 - INFO - State published to Device
+2022-02-07T18:07:11.504+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:11.505+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:11.505+01:00 - INFO - State published to Device
+2022-02-07T18:07:15.525+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:15.525+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:15.525+01:00 - INFO - State published to Device
+2022-02-07T18:07:18.044+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:18.044+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:18.045+01:00 - INFO - State published to Device
+2022-02-07T18:07:20.036+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:20.037+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:20.037+01:00 - INFO - State published to Device
+2022-02-07T18:07:21.984+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:21.986+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":51},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:21.988+01:00 - INFO - State published to Device
+2022-02-07T18:07:31.881+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:31.881+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":14},{"inputId":"green","value":10},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:31.882+01:00 - INFO - State published to Device
+2022-02-07T18:07:42.821+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:42.822+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":14},{"inputId":"green","value":10},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:42.822+01:00 - INFO - State published to Device
+2022-02-07T18:07:44.449+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:44.449+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":14},{"inputId":"green","value":10},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:07:44.449+01:00 - INFO - State published to Device
+2022-02-07T18:07:45.329+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:45.329+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":14},{"inputId":"green","value":10},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:07:45.329+01:00 - INFO - State published to Device
+2022-02-07T18:07:54.636+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:07:54.636+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:07:54.637+01:00 - INFO - State published to Device
+2022-02-07T18:08:19.231+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:19.231+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:08:19.232+01:00 - INFO - State published to Device
+2022-02-07T18:08:20.956+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:20.956+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:08:20.956+01:00 - INFO - State published to Device
+2022-02-07T18:08:22.215+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:22.216+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:08:22.216+01:00 - INFO - State published to Device
+2022-02-07T18:08:24.074+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:24.074+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T18:08:24.075+01:00 - INFO - State published to Device
+2022-02-07T18:08:26.266+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:26.267+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:08:26.267+01:00 - INFO - State published to Device
+2022-02-07T18:08:27.712+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:27.713+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"90"}]}" to broadcast
+2022-02-07T18:08:27.713+01:00 - INFO - State published to Device
+2022-02-07T18:08:29.067+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:29.068+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:08:29.068+01:00 - INFO - State published to Device
+2022-02-07T18:08:30.070+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:30.070+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"50"}]}" to broadcast
+2022-02-07T18:08:30.071+01:00 - INFO - State published to Device
+2022-02-07T18:08:32.875+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:32.875+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"10"}]}" to broadcast
+2022-02-07T18:08:32.875+01:00 - INFO - State published to Device
+2022-02-07T18:08:34.534+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:34.534+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:08:34.535+01:00 - INFO - State published to Device
+2022-02-07T18:08:37.312+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:37.312+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:08:37.312+01:00 - INFO - State published to Device
+2022-02-07T18:08:46.360+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:46.360+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"60"}]}" to broadcast
+2022-02-07T18:08:46.361+01:00 - INFO - State published to Device
+2022-02-07T18:08:47.062+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:47.062+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"90"}]}" to broadcast
+2022-02-07T18:08:47.062+01:00 - INFO - State published to Device
+2022-02-07T18:08:48.084+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:08:48.084+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:08:48.084+01:00 - INFO - State published to Device
+2022-02-07T18:09:02.203+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:02.204+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:09:02.204+01:00 - INFO - State published to Device
+2022-02-07T18:09:04.634+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:04.635+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:09:04.635+01:00 - INFO - State published to Device
+2022-02-07T18:09:27.971+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:27.972+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:09:27.972+01:00 - INFO - State published to Device
+2022-02-07T18:09:29.690+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:29.690+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:09:29.690+01:00 - INFO - State published to Device
+2022-02-07T18:09:33.490+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:33.491+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:09:33.491+01:00 - INFO - State published to Device
+2022-02-07T18:09:39.447+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:39.448+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":221},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:09:39.448+01:00 - INFO - State published to Device
+2022-02-07T18:09:46.418+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:46.418+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":162},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:09:46.418+01:00 - INFO - State published to Device
+2022-02-07T18:09:51.864+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:51.864+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:09:51.864+01:00 - INFO - State published to Device
+2022-02-07T18:09:57.203+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:57.203+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:09:57.204+01:00 - INFO - State published to Device
+2022-02-07T18:09:59.154+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:09:59.154+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:09:59.155+01:00 - INFO - State published to Device
+2022-02-07T18:11:02.914+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:02.915+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:11:02.915+01:00 - INFO - State published to Device
+2022-02-07T18:11:04.356+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:04.357+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:11:04.357+01:00 - INFO - State published to Device
+2022-02-07T18:11:13.043+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:13.044+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"20"}]}" to broadcast
+2022-02-07T18:11:13.044+01:00 - INFO - State published to Device
+2022-02-07T18:11:14.454+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:14.454+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:11:14.454+01:00 - INFO - State published to Device
+2022-02-07T18:11:19.171+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:19.172+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":64},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:19.172+01:00 - INFO - State published to Device
+2022-02-07T18:11:21.737+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:21.737+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":0},{"inputId":"green","value":17},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:21.737+01:00 - INFO - State published to Device
+2022-02-07T18:11:33.271+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:33.272+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":0},{"inputId":"green","value":0},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:33.272+01:00 - INFO - State published to Device
+2022-02-07T18:11:39.123+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:39.124+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":255},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:39.125+01:00 - INFO - State published to Device
+2022-02-07T18:11:49.379+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:49.380+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":0},{"inputId":"green","value":179},{"inputId":"blue","value":255},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:49.380+01:00 - INFO - State published to Device
+2022-02-07T18:11:52.790+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:52.790+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":89},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:52.790+01:00 - INFO - State published to Device
+2022-02-07T18:11:56.508+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:56.508+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":89},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:56.508+01:00 - INFO - State published to Device
+2022-02-07T18:11:58.283+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:11:58.284+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":89},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:11:58.284+01:00 - INFO - State published to Device
+2022-02-07T18:12:05.211+01:00 - ERROR - Template with id undefined not found
+2022-02-07T18:12:05.211+01:00 - TRACE - Published status "400 - Device not updated!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/statusResponse/updateDevice"
+2022-02-07T18:12:07.196+01:00 - INFO - Alle Gruppen wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groups veröffentlicht
+2022-02-07T18:12:07.198+01:00 - INFO - Alle Geräte wurden über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/devices veröffentlicht
+2022-02-07T18:12:07.288+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T18:12:07.288+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T18:12:07.289+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T18:12:14.464+01:00 - INFO - Geräte  wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:12:14.599+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T18:12:14.600+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T18:12:14.601+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T18:12:14.601+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/heater veröffentlicht
+2022-02-07T18:12:14.602+01:00 - INFO - State:  wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/gauge veröffentlicht
+2022-02-07T18:12:14.602+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T18:12:14.602+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T18:12:17.485+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:12:17.485+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":89},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:12:17.485+01:00 - INFO - State published to Device
+2022-02-07T18:12:18.855+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:12:18.855+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":89},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:12:18.855+01:00 - INFO - State published to Device
+2022-02-07T18:22:30.465+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:22:30.465+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":89},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:22:30.465+01:00 - INFO - State published to Device
+2022-02-07T18:22:31.931+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:22:31.931+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":89},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"40"}]}" to broadcast
+2022-02-07T18:22:31.931+01:00 - INFO - State published to Device
+2022-02-07T18:23:28.841+01:00 - INFO - Templates wurden über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/templates veröffentlicht
+2022-02-07T18:23:49.364+01:00 - TRACE - Published all devices to broadcast
+2022-02-07T18:23:49.365+01:00 - TRACE - Published status "200 - Device created!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/statusResponse/postDevice"
+2022-02-07T18:23:49.389+01:00 - INFO - Geräte  wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:23:49.510+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/8d5c5636-ef5c-4cc8-b7e2-bc9a3578c94e veröffentlicht
+2022-02-07T18:23:51.883+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:23:51.883+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:23:51.883+01:00 - INFO - State published to Device
+2022-02-07T18:23:53.911+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:23:53.912+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:23:53.912+01:00 - INFO - State published to Device
+2022-02-07T18:23:55.533+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:23:55.534+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:23:55.534+01:00 - INFO - State published to Device
+2022-02-07T18:23:57.186+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:23:57.187+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":56},{"inputId":"blue","value":56},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:23:57.187+01:00 - INFO - State published to Device
+2022-02-07T18:24:00.089+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:24:00.089+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":56},{"inputId":"blue","value":56},{"inputId":"colorPicker","value":"70"}]}" to broadcast
+2022-02-07T18:24:00.090+01:00 - INFO - State published to Device
+2022-02-07T18:24:05.524+01:00 - TRACE - Published status "200 - Device deleted" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/statusResponse/deleteDevice"
+2022-02-07T18:24:05.524+01:00 - TRACE - Published all devices to broadcast
+2022-02-07T18:24:05.632+01:00 - INFO - Geräte  wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:24:10.145+01:00 - INFO - Templates wurden über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/templates veröffentlicht
+2022-02-07T18:24:26.315+01:00 - INFO - Templates wurden über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/templates veröffentlicht
+2022-02-07T18:25:08.344+01:00 - TRACE - Published all devices to broadcast
+2022-02-07T18:25:08.344+01:00 - TRACE - Published status "200 - Device created!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/statusResponse/postDevice"
+2022-02-07T18:25:08.361+01:00 - INFO - Geräte  wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groupDevices/kitchen veröffentlicht
+2022-02-07T18:25:08.474+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/5ed8a254-0158-4c6d-b3f8-8a4ca42e09a1 veröffentlicht
+2022-02-07T18:25:10.200+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:25:10.201+01:00 - INFO - State published to Device
+2022-02-07T18:25:10.200+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:12.762+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:25:12.762+01:00 - INFO - State published to Device
+2022-02-07T18:25:12.761+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:14.224+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:14.224+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:25:14.224+01:00 - INFO - State published to Device
+2022-02-07T18:25:16.733+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:16.734+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:25:16.734+01:00 - INFO - State published to Device
+2022-02-07T18:25:18.787+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:18.787+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":null}]}" to broadcast
+2022-02-07T18:25:18.787+01:00 - INFO - State published to Device
+2022-02-07T18:25:19.539+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:19.539+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":null},{"inputId":"green","value":null},{"inputId":"blue","value":null},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:25:19.540+01:00 - INFO - State published to Device
+2022-02-07T18:25:26.627+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:26.628+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:25:26.628+01:00 - INFO - State published to Device
+2022-02-07T18:25:28.533+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:25:28.534+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:25:28.534+01:00 - INFO - State published to Device
+2022-02-07T18:28:56.233+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:28:56.233+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:28:56.233+01:00 - INFO - State published to Device
+2022-02-07T18:28:57.609+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:28:57.610+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:28:57.611+01:00 - INFO - State published to Device
+2022-02-07T18:28:59.044+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:28:59.044+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:28:59.045+01:00 - INFO - State published to Device
+2022-02-07T18:28:59.789+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:28:59.790+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:28:59.790+01:00 - INFO - State published to Device
+2022-02-07T18:29:00.420+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:29:00.421+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:29:00.421+01:00 - INFO - State published to Device
+2022-02-07T18:29:01.221+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:29:01.221+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:29:01.222+01:00 - INFO - State published to Device
+2022-02-07T18:29:02.096+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:29:02.096+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:29:02.096+01:00 - INFO - State published to Device
+2022-02-07T18:29:02.813+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:29:02.813+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:29:02.813+01:00 - INFO - State published to Device
+2022-02-07T18:29:04.022+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:29:04.022+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:29:04.022+01:00 - INFO - State published to Device
+2022-02-07T18:29:04.689+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:29:04.689+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":230},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:29:04.689+01:00 - INFO - State published to Device
+2022-02-07T18:29:08.335+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:29:08.336+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":107},{"inputId":"blue","value":107},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:29:08.336+01:00 - INFO - State published to Device
+2022-02-07T18:51:21.193+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:51:21.193+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":107},{"inputId":"blue","value":107},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:51:21.193+01:00 - INFO - State published to Device
+2022-02-07T18:51:23.016+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:51:23.016+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":107},{"inputId":"blue","value":107},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:51:23.017+01:00 - INFO - State published to Device
+2022-02-07T18:51:39.614+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:51:39.615+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":107},{"inputId":"blue","value":107},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:51:39.615+01:00 - INFO - State published to Device
+2022-02-07T18:51:41.413+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:51:41.413+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":107},{"inputId":"blue","value":107},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:51:41.414+01:00 - INFO - State published to Device
+2022-02-07T18:51:44.749+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:51:44.749+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":219},{"inputId":"green","value":0},{"inputId":"blue","value":0},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:51:44.749+01:00 - INFO - State published to Device
+2022-02-07T18:52:44.002+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:52:44.003+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":36},{"inputId":"blue","value":36},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:52:44.003+01:00 - INFO - State published to Device
+2022-02-07T18:56:25.492+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:56:25.492+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":36},{"inputId":"blue","value":36},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:56:25.493+01:00 - INFO - State published to Device
+2022-02-07T18:56:26.508+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T18:56:26.508+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"red","value":255},{"inputId":"green","value":36},{"inputId":"blue","value":36},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T18:56:26.508+01:00 - INFO - State published to Device
+2022-02-07T19:38:03.646+01:00 - TRACE - Published status "200 - State posted!" to topic "faeb88a0-7a9e-44ee-b918-67097ad15312/stateResponse/state/device"
+2022-02-07T19:38:03.646+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"off"},{"inputId":"red","value":255},{"inputId":"green","value":36},{"inputId":"blue","value":36},{"inputId":"colorPicker","value":"80"}]}" to broadcast
+2022-02-07T19:38:03.647+01:00 - INFO - State published to Device
+2022-02-07T19:38:06.331+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T19:38:06.332+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:38:06.333+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T19:38:06.334+01:00 - INFO - Alle Gruppen wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/groups veröffentlicht
+2022-02-07T19:38:06.334+01:00 - INFO - Alle Geräte wurden über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/request/devices veröffentlicht
+2022-02-07T19:38:06.392+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: faeb88a0-7a9e-44ee-b918-67097ad15312/response/state/device/5ed8a254-0158-4c6d-b3f8-8a4ca42e09a1 veröffentlicht
+2022-02-07T19:38:07.735+01:00 - INFO - ClientID: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9 wurde veröffentlicht
+2022-02-07T19:38:07.752+01:00 - INFO - Alle Gruppen wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/request/groups veröffentlicht
+2022-02-07T19:38:07.757+01:00 - TRACE - All configured users published to "f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/users"
+2022-02-07T19:38:07.758+01:00 - INFO - Alle Geräte wurden über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/request/devices veröffentlicht
+2022-02-07T19:38:07.813+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T19:38:07.814+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:38:07.815+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T19:38:07.817+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/5ed8a254-0158-4c6d-b3f8-8a4ca42e09a1 veröffentlicht
+2022-02-07T19:38:24.369+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:38:26.850+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:40:19.284+01:00 - TRACE - Published status "200 - State posted!" to topic "f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/stateResponse/state/device"
+2022-02-07T19:40:19.285+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"heater","value":22}]}" to broadcast
+2022-02-07T19:40:19.860+01:00 - TRACE - Published status "200 - State posted!" to topic "f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/stateResponse/state/device"
+2022-02-07T19:40:19.861+01:00 - TRACE - Published state "{"states":[{"inputId":"turn","value":"on"},{"inputId":"heater","value":22}]}" to broadcast
+2022-02-07T19:43:43.273+01:00 - INFO - Geräte  wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/request/groupDevices/c2d33307-0f22-43e6-bbb0-40fae33aa616 veröffentlicht
+2022-02-07T19:43:43.996+01:00 - INFO - Templates wurden über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/request/templates veröffentlicht
+2022-02-07T19:43:46.369+01:00 - INFO - Templates wurden über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/request/templates veröffentlicht
+2022-02-07T19:43:48.420+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T19:43:48.421+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T19:43:48.427+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/response/state/device/5ed8a254-0158-4c6d-b3f8-8a4ca42e09a1 veröffentlicht
+2022-02-07T19:43:48.435+01:00 - INFO - Alle Gruppen wurde über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/request/groups veröffentlicht
+2022-02-07T19:43:48.435+01:00 - INFO - Alle Geräte wurden über Topic: f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/request/devices veröffentlicht
+2022-02-07T19:45:25.007+01:00 - TRACE - Published status "200 - Group created" to topic "f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/statusResponse/postGroup"
+2022-02-07T19:45:25.010+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:45:29.673+01:00 - TRACE - Published status "200 - Group created" to topic "f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/statusResponse/postGroup"
+2022-02-07T19:45:29.675+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:45:35.588+01:00 - TRACE - Published status "200 - Group created" to topic "f0ae242e-2be7-45ee-96c1-8dc00ffb24b9/statusResponse/postGroup"
+2022-02-07T19:45:35.589+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:45:39.394+01:00 - INFO - ClientID: 189de75e-e509-4c5e-b008-b2a47e900eac wurde veröffentlicht
+2022-02-07T19:45:39.428+01:00 - INFO - Alle Gruppen wurde über Topic: 189de75e-e509-4c5e-b008-b2a47e900eac/request/groups veröffentlicht
+2022-02-07T19:45:39.429+01:00 - TRACE - All configured users published to "189de75e-e509-4c5e-b008-b2a47e900eac/response/users"
+2022-02-07T19:45:39.430+01:00 - INFO - Alle Geräte wurden über Topic: 189de75e-e509-4c5e-b008-b2a47e900eac/request/devices veröffentlicht
+2022-02-07T19:45:39.522+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 189de75e-e509-4c5e-b008-b2a47e900eac/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T19:45:39.523+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 189de75e-e509-4c5e-b008-b2a47e900eac/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:45:39.524+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: 189de75e-e509-4c5e-b008-b2a47e900eac/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T19:45:39.524+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: 189de75e-e509-4c5e-b008-b2a47e900eac/response/state/device/5ed8a254-0158-4c6d-b3f8-8a4ca42e09a1 veröffentlicht
+2022-02-07T19:45:46.936+01:00 - TRACE - Published status "200 - Group created" to topic "189de75e-e509-4c5e-b008-b2a47e900eac/statusResponse/postGroup"
+2022-02-07T19:45:46.937+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:45:49.204+01:00 - INFO - ClientID: fc477d35-48fc-4762-9004-afac9f4a1c0d wurde veröffentlicht
+2022-02-07T19:45:49.243+01:00 - INFO - Alle Gruppen wurde über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/request/groups veröffentlicht
+2022-02-07T19:45:49.244+01:00 - TRACE - All configured users published to "fc477d35-48fc-4762-9004-afac9f4a1c0d/response/users"
+2022-02-07T19:45:49.244+01:00 - INFO - Alle Geräte wurden über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/request/devices veröffentlicht
+2022-02-07T19:45:49.423+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T19:45:49.423+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:45:49.424+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T19:45:49.424+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/response/state/device/5ed8a254-0158-4c6d-b3f8-8a4ca42e09a1 veröffentlicht
+2022-02-07T19:47:55.529+01:00 - TRACE - Published status "200 - Group created" to topic "fc477d35-48fc-4762-9004-afac9f4a1c0d/statusResponse/postGroup"
+2022-02-07T19:47:55.530+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:48:09.694+01:00 - TRACE - Published status "200 - Group created" to topic "fc477d35-48fc-4762-9004-afac9f4a1c0d/statusResponse/postGroup"
+2022-02-07T19:48:09.695+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:48:19.391+01:00 - TRACE - Published status "200 - Group created" to topic "fc477d35-48fc-4762-9004-afac9f4a1c0d/statusResponse/postGroup"
+2022-02-07T19:48:19.392+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:54:01.541+01:00 - INFO - Geräte  wurde über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/request/groupDevices/c2d33307-0f22-43e6-bbb0-40fae33aa616 veröffentlicht
+2022-02-07T19:54:02.480+01:00 - INFO - Templates wurden über Topic: fc477d35-48fc-4762-9004-afac9f4a1c0d/request/templates veröffentlicht
+2022-02-07T19:54:03.717+01:00 - ERROR - Device "undefined won't be loaded because assigned template "" is uavailable.
+2022-02-07T19:54:03.719+01:00 - TRACE - Published all devices to broadcast
+2022-02-07T19:54:03.719+01:00 - ERROR - Template with id  not found
+2022-02-07T19:54:03.720+01:00 - TRACE - Published status "400 - Device not created!" to topic "fc477d35-48fc-4762-9004-afac9f4a1c0d/statusResponse/postDevice"
+2022-02-07T19:54:37.018+01:00 - TRACE - Published status "400 - Client not registered!" to topic "fc477d35-48fc-4762-9004-afac9f4a1c0d/statusResponse/postGroup"
+2022-02-07T19:54:41.333+01:00 - INFO - ClientID: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c wurde veröffentlicht
+2022-02-07T19:54:41.368+01:00 - INFO - Alle Gruppen wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/request/groups veröffentlicht
+2022-02-07T19:54:41.368+01:00 - TRACE - All configured users published to "a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/users"
+2022-02-07T19:54:41.381+01:00 - INFO - Alle Geräte wurden über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/request/devices veröffentlicht
+2022-02-07T19:54:41.492+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T19:54:41.494+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:54:41.495+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T19:54:43.645+01:00 - TRACE - Published status "200 - Group created" to topic "a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/statusResponse/postGroup"
+2022-02-07T19:54:43.647+01:00 - TRACE - Published all groups to broadcast
+2022-02-07T19:54:47.537+01:00 - INFO - Geräte  wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/request/groupDevices/kitchen veröffentlicht
+2022-02-07T19:54:47.672+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/kitchenLamp veröffentlicht
+2022-02-07T19:54:47.673+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/livingRoomLamp veröffentlicht
+2022-02-07T19:54:47.674+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/0fed2f39-1256-4781-a51e-3607286f0ab3 veröffentlicht
+2022-02-07T19:54:47.675+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/heater veröffentlicht
+2022-02-07T19:54:47.676+01:00 - INFO - State:  wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/gauge veröffentlicht
+2022-02-07T19:54:47.680+01:00 - INFO - State: [object Object],[object Object],[object Object],[object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/ef06b35c-6a8d-43f9-9c63-8e0777942fd7 veröffentlicht
+2022-02-07T19:54:47.681+01:00 - INFO - State: [object Object],[object Object] wurde über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/state/device/5c8da68a-71e8-4b31-bcd7-fb9ace7fccb6 veröffentlicht
+2022-02-07T19:54:48.370+01:00 - INFO - Templates wurden über Topic: a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/request/templates veröffentlicht
+2022-02-07T19:54:49.884+01:00 - ERROR - Device "undefined won't be loaded because assigned template "" is uavailable.
+2022-02-07T19:54:49.884+01:00 - TRACE - Published all devices to broadcast
+2022-02-07T19:54:49.885+01:00 - ERROR - Template with id  not found
+2022-02-07T19:54:49.885+01:00 - TRACE - Published status "400 - Device not created!" to topic "a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/statusResponse/postDevice"
+2022-02-07T19:54:49.923+01:00 - TRACE - Published status "400 - Couldnt search for Devices!" to topic "a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/groupDevices/kitchen"
+2022-02-07T20:08:13.181+01:00 - TRACE - Published status "400 - Client not registered!" to topic "a4e9eee5-b0cd-4f86-87c4-de43cc86e44c/response/templates"

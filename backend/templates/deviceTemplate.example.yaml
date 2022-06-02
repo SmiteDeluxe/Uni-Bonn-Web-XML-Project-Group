@@ -1,0 +1,148 @@
+# This is the example config. Please be aware that you need device templates to use them with the frontend.
+
+################################################################
+# Create templates to specify your device and how it should be shown in the frontend.
+# Collection attributes must be included in the deviceTemplate, but can be left empty.
+
+# Every template consist of:
+# id: The id is used in the 'config.yaml' to assign each device a device template
+# name: Name you want your template to be called, can be picked freely as it is only used internally by the backend
+# placeholders: TODO
+# metadata: A collection of metadata to customize the frontend
+# actions: TODO
+# listeners: TODO
+# inputs: A collection of inputs, which should be shown in the frontend to be used to control the device
+
+# template structure example:
+  id: exampleId
+  name: exampleName
+  placeholders: []
+  metadata: []
+  actions: []
+  listeners: []
+  inputs: []
+
+################################################################
+# Create placeholders ... TODO
+
+# placeholders consist of:
+# id:
+# name:
+# description:
+
+# placeholder example:
+placeholders:
+  - id: exampleId
+    name: exampleName
+    description: This is an example description.
+
+################################################################
+# Specify metadata to customize the design of the frontend.
+
+# metadata consist of:
+# expandable: Can be set for this device to be expandable and therefore see statistical information, like changes etc.
+# iconColor: Color you want the icon of this device to have. Either pick a string color (white) or as hex value (#ffff)
+
+# placeholder example:
+metadata:
+  expandable: true|false
+  iconColor: exampleColor
+
+################################################################
+# Specify actions where you define MQTT topics to send commands to.
+# Should be explained by the manufacturer of your device.
+
+# actions consist of:
+# id: TODO
+# type: TODO
+# topic: Set the MQTT topic where you should send the values to
+# payloadInput: TODO
+
+# placeholder example:
+actions:
+  - id: exampleId
+    type: exampleType
+    topic: 'this/is/an/example/topic'
+    payloadInput: examplePayloadInput
+
+################################################################
+# Specify listeners where you define MQTT topics to receive information from the device.
+# Should be explained by the manufacturer of your device.
+
+# actions consist of:
+# id: TODO
+# type: TODO
+# topic: Set the MQTT topic where you receive information from
+# payloadInput: TODO
+
+# placeholder example:
+listeners:
+  - id: exampleId
+    type: exampleType
+    topic: 'this/is/an/example/topic'
+    payloadInput: examplePayloadInput
+
+################################################################
+# Specify inputs that are shown in the frontend and that you can interact with to control your device.
+
+# inputs consist of:
+# id: Can be picked freely as it is only used internally by the backend
+# name: Can be picked freely as it is only used internally by the backend
+# metadata: Consists of a type attribute and optionally a color attribute.
+#           The type attribute specifies the type of input that should be shown in the frontend.
+#           There are in total 5 different inputs:
+#             on-off (turn a device on or off)
+#             colorPicker (select a color for example your RGB light bulb)
+#             brightnessSlider (a slider to change a value on a scale)
+#             discrete (TODO)
+#             temp-button (a button to change a value like a temp control with plus and minus)
+#
+#           The color attribute is associated with the colorPicker type. Every colorPicker attribute needs to have a
+#           color attribute. The value of the color attribute has to be either red, blue or green.
+#           In accordance to these specifications, there has to be 3 different input entries to show a colorPicker.
+#           To use the colorPicker in the frontend you need one entry with the color red, one with blue and one with green.
+# The input has either a 'states' or a 'range' attribute:
+#   ?states: Specifies an input with discrete states. The amount of values can be picked freely.
+#   ?range: Specifies a range of an input. Needs a 'min' and a 'max' attribute.
+
+# inputs example:
+inputs:
+  - id: exampleId
+    name: exampleName
+    metadata:
+      type: on-off | colorPicker | brightnessSlider | discrete | temp-button
+      color: red | blue | green # only set when colorPicker is the type
+    states:
+      # need to be at least two for state changes. used for types: on-off | discrete
+      - exampleState
+      - exampleState
+    range:
+      # used for types: colorPicker | brightnessSlider | temp-button
+      min: 0 # example
+      max: 100 # example
+
+################################################################
+# Specify inputs that are shown in the frontend and that you can interact with to control your device.
+
+# inputs consist of:
+# id: Can be picked freely as it is only used internally by the backend
+# name: Can be picked freely as it is only used internally by the backend
+# metadata: Consists of a type attribute.
+#           There are in total 2 different outputs:
+#             gauge (display a certain value)
+#             timer (displays a timer)
+#
+# range: Specifies a range of an output. Needs a 'min' and a 'max' attribute.
+#        'max' should be set to integrate all possible values of the output.
+
+# outputs example:
+outputs:
+  - id: exampleId
+      name: exampleName
+    metadata:
+      type: gauge | timer
+    range:
+      min: 0 # example
+      max: 100 # example
+
+################################################################

@@ -1,0 +1,39 @@
+id: exampleHeater
+name: exampleHeater
+placeholders: []
+metadata:
+  expandable: false
+  iconColor: red
+actions:
+  - id: command
+    type: command
+    topic: 'hier/könnte/ihr/mqtt/stehen'
+    payloadInput: power # Will just send string as payload
+  - id: setState
+    type: object
+    topic: 'hier/könnte/ihr/mqtt/stehen'
+    payloadInput: # Will send `input id: value` mapping as payload
+      - power
+      - temperature
+listeners:
+  - id: getState
+    type: object
+    topic: 'hier/könnte/ihr/mqtt/stehen'
+    payloadInput:
+      - power
+      - temperature
+inputs:
+  - id: turn
+    name: Licht
+    metadata:
+      type: on-off
+    states:
+      - on
+      - off
+  - id: heater
+    name: HeaterControl
+    metadata:
+      type: temp-button
+    range:
+      min: 0
+      max: 30
