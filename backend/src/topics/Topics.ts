@@ -1,0 +1,85 @@
+// Bearbeitet von *** und ***
+export default {
+  client: {
+    createRequest: 'request/clientId' as const,
+    deleteRequest: '+clientId/delete/clientId' as const,
+    response: 'response/clientId' as const,
+  },
+  groups: {
+    getAllRequest: '+clientId/request/groups' as const,
+    getAllResponse: '+clientId/response/groups' as const,
+    getRequest: '+clientId/request/group/+groupId' as const,
+    getResponse: '+clientId/response/group/+groupId' as const,
+    post: '+clientId/post/group' as const,
+    postResponse: '+clientId/statusResponse/postGroup' as const,
+    update: '+clientId/update/group/+groupId' as const,
+    updateResponse: '+clientId/statusResponse/updateGroup' as const,
+    delete: '+clientId/delete/group/+groupId' as const,
+    deleteResponse: '+clientId/statusResponse/deleteGroup' as const,
+    broadcast: 'broadcastClient/broadcast/groups' as const,
+  },
+  users: {
+    getAllRequest: '+clientId/request/users' as const,
+    getAllResponse: '+clientId/response/users' as const,
+    getRestrictionsRequest: '+clientId/request/user/+userId' as const,
+    getRestrictionsResponse: '+clientId/response/user/+userId' as const,
+  },
+  devices: {
+    getGroupDevicesRequest: '+clientId/request/groupDevices/+groupId' as const,
+    getGroupDevicesResponse:
+      '+clientId/response/groupDevices/+groupId' as const,
+    getAllRequest: '+clientId/request/devices' as const,
+    getAllResponse: '+clientId/response/devices' as const,
+    getRequest: '+clientId/request/device/+deviceId' as const,
+    getResponse: '+clientId/response/device/+deviceId' as const,
+    post: '+clientId/post/device' as const,
+    postResponse: '+clientId/statusResponse/postDevice' as const,
+    update: '+clientId/update/device/+deviceId' as const,
+    updateResponse: '+clientId/statusResponse/updateDevice' as const,
+    delete: '+clientId/delete/device/+deviceId' as const,
+    deleteResponse: '+clientId/statusResponse/deleteDevice' as const,
+    broadcast: 'broadcastClient/broadcast/devices' as const,
+  },
+  templates: {
+    getTemplatesRequest: '+clientId/request/templates' as const,
+    getTemplatesResponse: '+clientId/response/templates' as const,
+  },
+  automations: {
+    getRequest: '+clientId/request/automation/+automationId' as const,
+    getResponse: '+clientId/response/automation/+automationId' as const,
+    getAllRequest: '+clientId/request/automations' as const,
+    getAllResponse: '+clientId/response/automations' as const,
+    postRequest: '+clientId/post/automation' as const,
+    postResponse: '+clientId/statusResponse/postAutomation' as const,
+    updateRequest: '+clientId/update/automation/+automationId' as const,
+    updateResponse: '+clientId/statusResponse/updateAutomation' as const,
+    deleteRequest: '+clientId/delete/automation/+automationId' as const,
+    deleteResponse: '+clientId/statusResponse/deleteAutomation' as const,
+    broadcast: 'broadcastClient/broadcast/automations' as const,
+  },
+  statemanagement: {
+    getRequest: '+clientId/request/state/device/+deviceId' as const,
+    getResponse: '+clientId/response/state/device/+deviceId' as const,
+    post: '+clientId/post/state/device/+deviceId' as const,
+    postResponse: '+clientId/stateResponse/state/device' as const,
+    broadcast: 'broadcastClient/broadcast/state/+deviceId' as const,
+    offlineDevice: 'broadcastClient/broadcast/device/offline/+deviceId' as const,
+  },
+  statsmanagement: {
+    getLastEntriesRequest:
+      '+clientId/request/lastEntries/+numberEntries' as const,
+    getLastEntriesResponse:
+      '+clientId/response/lastEntries/+numberEntries' as const,
+    getEntriesBetweenRequest: '+clientId/request/entriesBetween/+day' as const,
+    getEntriesBetweenResponse:
+      '+clientId/response/entriesBetween/+day' as const,
+    getFullDayRequest: '+clientId/request/fullDay/+day' as const,
+    getFullDayResponse: '+clientId/response/fullDay/+day' as const,
+  },
+  logsmanagement: {
+    requestList: '+clientId/request/logList' as const,
+    responseList: '+clientId/response/logList' as const,
+    requestLog: '+clientId/request/log/+logId' as const,
+    responseLog: '+clientId/response/log/+logId' as const,
+  },
+};
