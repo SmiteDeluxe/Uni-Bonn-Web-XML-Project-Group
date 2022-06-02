@@ -1,0 +1,81 @@
+@import 'node_modules/material-design-icons/iconfont/material-icons.css';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background: #d3d3d3;
+}
+
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    height: 100%;
+    width: 100%;
+}
+
+.material-icons {
+    font-family: "Material Icons" !important;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;;
+}
+
+.float-right {
+    float: right !important;;
+}
+
+.float-left {
+    float: left !important;;
+}
+
+.unselectable {
+    user-select: none;
+}
+
+.text-center {
+    text-align: center !important;;
+}
+
+.text-bold {
+    font-weight: bold !important;;
+}
+
+.text-muted {
+    color: #646464 !important;;
+}
+
+.text-success {
+    color: green !important;;
+}
+
+.text-danger {
+    color: red !important;;
+}
+
+.pointer {
+    cursor: pointer;
+}
